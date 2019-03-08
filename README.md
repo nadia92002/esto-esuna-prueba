@@ -1,4 +1,5 @@
-<html>
+<!DOCTYPE HTML>
+<html lang="es">
   <head>
     <meta charset="utf-8/">
     <title><h1>Examen</h1></title>
