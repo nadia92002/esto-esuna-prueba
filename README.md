@@ -7,8 +7,8 @@
     background-color: red;
     contenedor align: center;
     border: 2px solid blue;
-    height: 400px;
-    width: 400px;
+    height: 450px;
+    width: 450px;
     float: left;
     }
     h1{
@@ -21,8 +21,8 @@
     background-color: yellow;
     text-align: center;
     border: 2px solid blue;
-    height: 50px;
-    width: 50px;
+    height: 450px;
+    width: 450px;
     float: right;
     text-align: center;
     }
