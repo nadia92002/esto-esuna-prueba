@@ -28,15 +28,27 @@
     }
     .uno{
     }
+    .{
+    }
     .dos{
+    }
+    .{
     }
     .tres{
     }
+    .{
+    }
     .cuatro{
+    }
+    .{
     }
     .cinco{
     }
+    .{
+    }
     .seis{
+    }
+    .{
     }
     </style>
   </head>
