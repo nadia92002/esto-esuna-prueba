@@ -28,26 +28,50 @@
     text-align: center;
     }
     .uno{
+    width: 800px;
+    height: 900px;
+    border: 1px solid red;
+    margin: auto;
     }
     .{
     }
     .dos{
+    width: 800px;
+    height: 900px;
+    border: 1px solid pink;
+    margin: auto;
     }
     .{
     }
     .tres{
+    width: 800px;
+    height: 900px;
+    border: 1px solid black;
+    margin: auto;
     }
     .{
     }
     .cuatro{
+    width: 800px;
+    height: 900px;
+    border: 1px solid green;
+    margin: auto;
     }
     .{
     }
     .cinco{
+    width: 800px;
+    height: 900px;
+    border: 1px solid orange;
+    margin: auto;
     }
     .{
     }
     .seis{
+    width: 800px;
+    height: 900px;
+    border: 1px solid purple;
+    margin: auto;
     }
     .{
     }
