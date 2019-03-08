@@ -4,7 +4,7 @@
     <meta charset="utf-8/">
     <title><h1>Examen</h1></title>
   <style>
-    div#body{
+    body{
     border: 2px solid blue;
     height: 450px;
     width: 450px;
@@ -12,25 +12,11 @@
     margin-top: 60px;
     float: left;
     }
-    div#izquierda{
-    width: 200px;
-    height: 200px;
-    background-color: red;
     h1{
     color: red;
     margin: 5px;
     padding: 5px;
     font-color: red;
-    }
-    div#centro{
-    width: 200px;
-    height: 200px;
-    background-color: green;
-    }
-    div#derecha{
-    width: 200px;
-    height: 200px;
-    background-color: yellow;
     }
     .contenedor{
     background-color: yellow;
@@ -68,15 +54,35 @@
     </style>
   </head>
   <body>
-   <div id="body">
-    <div id="izquierda">
+   <div class="dos contenedor">
+     <h1>2</h1>
     </div>
-     
-     <div id="body">
-     <div id="centro">
+    <div class=" contenedor">
+     <h1></h1>
     </div>
-    <div id="body">
-    <div id="derecha">
+    <div class="uno contenedor">
+     <h1>1</h1>
+    </div>
+    <div class="tres contenedor">
+     <h1>3</h1>
+    </div>
+    <div class=" contenedor">
+     <h1></h1
+    </div>
+    <div class="cuatro contenedor">
+     <h1>4</h1>
+    </div>
+    <div class=" contenedor">
+     <h1></h1>
+    </div>
+    <div class="cinco contenedor">
+     <h1>5</h1>
+    </div>
+    <div class=" contenedor">
+     <h1></h1>
+    </div>
+    <div class="seis contenedor">
+     <h1>6</h1>
     </div>
   </body>
   </head>
