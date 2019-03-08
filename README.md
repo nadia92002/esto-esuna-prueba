@@ -78,14 +78,17 @@
     </style>
   </head>
   <body>
-   <div class="dos contenedor">
-     <h1>2</h1>
+   <div class="uno contenedor">
+     <h1>1</h1>
     </div>
     <div class=" contenedor">
      <h1></h1>
     </div>
-    <div class="uno contenedor">
-     <h1>1</h1>
+    <div class="dos contenedor">
+     <h1>2</h1>
+    </div>
+    <div class=" contenedor">
+     <h1></h1>
     </div>
     <div class="tres contenedor">
      <h1>3</h1>
