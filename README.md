@@ -6,10 +6,10 @@
   <style>
     body{
     border: 2px solid blue;
-    height: 450px;
-    width: 450px;
+    height: 30px;
+    width: 30px;
     margin: auto;
-    margin-top: 60px;
+    margin-top: 10px;
     float: left;
     }
     h1{
@@ -22,54 +22,54 @@
     background-color: yellow;
     text-align: center;
     border: 2px solid blue;
-    height: 50px;
-    width: 50px;
+    height: 30px;
+    width: 30px;
     float: right;
     text-align: center;
     }
     .uno{
-    width: 800px;
-    height: 900px;
+    width: 30px;
+    height: 30px;
     border: 1px solid red;
     margin: auto;
     }
     .{
     }
     .dos{
-    width: 800px;
-    height: 900px;
+    width: 30px;
+    height: 30px;
     border: 1px solid pink;
     margin: auto;
     }
     .{
     }
     .tres{
-    width: 800px;
-    height: 900px;
+    width: 30px;
+    height: 30px;
     border: 1px solid black;
     margin: auto;
     }
     .{
     }
     .cuatro{
-    width: 800px;
-    height: 900px;
+    width: 30px;
+    height: 30px;
     border: 1px solid green;
     margin: auto;
     }
     .{
     }
     .cinco{
-    width: 800px;
-    height: 900px;
+    width: 30px;
+    height: 30px;
     border: 1px solid orange;
     margin: auto;
     }
     .{
     }
     .seis{
-    width: 800px;
-    height: 900px;
+    width: 30px;
+    height: 30px;
     border: 1px solid purple;
     margin: auto;
     }
