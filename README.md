@@ -4,14 +4,18 @@
     <meta charset="utf-8/">
     <title><h1>Examen</h1></title>
   <style>
-    body{
-    background-color: red;
-    contenedor align: center;
+    div#body{
     border: 2px solid blue;
-    height: 50px;
-    width: 50px;
+    height: 450px;
+    width: 450px;
+    margin: auto;
+    margin-top: 60px;
     float: left;
     }
+    div#izquierda{
+    width: 200px;
+    height: 200px;
+    background-color: red;
     h1{
     color: red;
     margin: 5px;
@@ -54,9 +58,10 @@
     </style>
   </head>
   <body>
-   <div class=" contenedor">
-     <h1></h1>
+   <div id="body">
+    <div id="izquierda"
     </div>
+     
     <div class="dos contenedor">
      <h1>2</h1>
     </div>
