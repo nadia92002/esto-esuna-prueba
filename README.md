@@ -11,7 +11,7 @@
     border: 2px solid green;
     height: 450px;
     width: 450px;
-    float: left;
+    float: right;
     }
     h1{
     color: red;
