@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+<html>
 <html lang="es">
   <head>
     <meta charset="utf-8/">
@@ -89,5 +89,4 @@
      <h1>6</h1>
     </div>
   </body>
-  </head>
   </html>
