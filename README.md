@@ -32,7 +32,6 @@
     width: 30px;
     height: 30px;
     border: 1px solid red;
-    margin: auto;
     }
     .{
     }
@@ -40,7 +39,6 @@
     width: 30px;
     height: 30px;
     border: 1px solid pink;
-    margin: auto;
     }
     .{
     }
@@ -48,7 +46,6 @@
     width: 30px;
     height: 30px;
     border: 1px solid black;
-    margin: auto;
     }
     .{
     }
@@ -56,7 +53,6 @@
     width: 30px;
     height: 30px;
     border: 1px solid green;
-    margin: auto;
     }
     .{
     }
@@ -64,7 +60,6 @@
     width: 30px;
     height: 30px;
     border: 1px solid orange;
-    margin: auto;
     }
     .{
     }
@@ -72,7 +67,6 @@
     width: 30px;
     height: 30px;
     border: 1px solid purple;
-    margin: auto;
     }
     .{
     }
