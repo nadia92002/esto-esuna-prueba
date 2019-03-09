@@ -29,44 +29,26 @@
     text-align: center;
     }
     .uno{
-    width: 30px;
-    height: 30px;
-    border: 1px solid red;
     }
     .{
     }
     .dos{
-    width: 30px;
-    height: 30px;
-    border: 1px solid pink;
     }
     .{
     }
     .tres{
-    width: 30px;
-    height: 30px;
-    border: 1px solid black;
     }
     .{
     }
     .cuatro{
-    width: 30px;
-    height: 30px;
-    border: 1px solid green;
     }
     .{
     }
     .cinco{
-    width: 30px;
-    height: 30px;
-    border: 1px solid orange;
     }
     .{
     }
     .seis{
-    width: 30px;
-    height: 30px;
-    border: 1px solid purple;
     }
     .{
     }
