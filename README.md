@@ -8,7 +8,7 @@
     background-color: red;
     contenedor align: center; 
     border: 2px solid blue;
-    border: 20px solid green;
+    border: 2px solid green;
     height: 50px;
     width: 50px;
     float: left;
@@ -21,7 +21,7 @@
     }
     .contenedor{
     background-color: yellow;
-    border: 20px solid blue;
+    border: 2px solid blue;
     height: 200px;
     width: 200px;
     float: right;
