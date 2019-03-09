@@ -9,8 +9,8 @@
     contenedor align: center; 
     border: 2px solid blue;
     border: 2px solid green;
-    height: 50px;
-    width: 50px;
+    height: 450px;
+    width: 450px;
     float: left;
     }
     h1{
@@ -22,8 +22,8 @@
     .contenedor{
     background-color: yellow;
     border: 2px solid blue;
-    height: 200px;
-    width: 200px;
+    height: 450px;
+    width: 450px;
     float: right;
     text-align: center   
     }
