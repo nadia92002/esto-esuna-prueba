@@ -5,11 +5,12 @@
     <title><h1>Examen</h1></title>
   <style>
     body{
+    background-color: red;
+    contenedor align: center; 
     border: 2px solid blue;
+    border: 2px solid green;
     height: 30px;
     width: 30px;
-    margin: auto;
-    margin-top: 10px;
     float: left;
     }
     h1{
