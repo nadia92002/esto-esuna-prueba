@@ -23,8 +23,8 @@
     background-color: yellow;
     text-align: center;
     border: 2px solid blue;
-    height: 20px;
-    width: 2px;
+    height: 2px;
+    width: 20px;
     float: right;
     text-align: center;
     }
