@@ -25,7 +25,7 @@
     border: 2px solid blue;
     height: 50px;
     width: 50px;
-    float: right;
+    float: left;
     text-align: center   
     }
     .uno{
