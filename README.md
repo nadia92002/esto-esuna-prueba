@@ -21,9 +21,10 @@
     }
     .contenedor{
     background-color: yellow;
+    text-aling: center;
     border: 2px solid blue;
-    height: 450px;
-    width: 450px;
+    height: 50px;
+    width: 50px;
     float: right;
     text-align: center   
     }
