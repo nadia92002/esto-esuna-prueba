@@ -8,7 +8,7 @@
     background-color: red;
     contenedor align: center; 
     border: 2px solid blue;
-    border: 2px solid green;
+    border: 20px solid green;
     height: 450px;
     width: 450px;
     float: left;
