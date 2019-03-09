@@ -21,12 +21,11 @@
     }
     .contenedor{
     background-color: yellow;
-    text-align: center;
-    border: 2px solid blue;
-    height: 50px;
-    width: 50px;
+    border: 20px solid blue;
+    height: 100px;
+    width: 100px;
     float: right;
-   
+    text-align: center   
     }
     .uno{
     }
