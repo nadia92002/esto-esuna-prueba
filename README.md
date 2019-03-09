@@ -23,10 +23,10 @@
     background-color: yellow;
     text-align: center;
     border: 2px solid blue;
-    height: 2px;
-    width: 20px;
+    height: 50px;
+    width: 50px;
     float: right;
-    text-align: center;
+   
     }
     .uno{
     }
