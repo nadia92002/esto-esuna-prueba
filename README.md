@@ -2,7 +2,7 @@
 <html lang="es">
   <head>
     <meta charset="utf-8/">
-    <title><h2>Examen</h1></title>
+    <title><h2>Pagina</h1></title>
   <style>
   h1{
     color: red;
@@ -34,7 +34,7 @@
     <div class="encuentrenos en:">
       <h3>encuentrenos en:</h3>
       <input type="botton">buscar</botton>
-    <h3 align="center">pagina de internet:www.cocinandofacil.com</h3>
+    <h3 align="center">pagina de internet: www.cocinandofacil.com</h3>
     <h3 align="center">facebook: cocinando facil.net</h3>
     <h3 align="center">you tube: cocinandofacil</h3>
       </body>
