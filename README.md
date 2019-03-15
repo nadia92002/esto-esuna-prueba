@@ -3,6 +3,28 @@
   <head>
      <meta charset="utf-8/">
     <title><h2>Pagina</h1></title>
+    <style>
+      h1{
+    color: red;
+    border: 2px solid green;
+    background-color: blue;
+    margin: 5px;
+    padding: 5px;
+    }
+    .contenedor{
+    text-aling: center;
+    background-color: blue;
+     border: 2px solid blue;
+    height: 500px;
+    width: 500px;
+    float: right;
+   }
+    .uno{
+    }
+    .dos{
+    }
+      </head>
+    </style>
   <body>
     <div class="cocina">
       <h1>COCINANDO FACIL</h1>
@@ -15,7 +37,6 @@
     <h3 align="center">pagina de internet: www.cocinandofacil.com</h3>
     <h3 align="center">facebook: cocinando facil.net</h3>
     <h3 align="center">you tube: cocinandofacil</h3>
-    </head>
     </body>
     
     </html>
