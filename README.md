@@ -1,7 +1,6 @@
 <html>
 <html lang="es">
   <head>
-    <meta charset="utf-8/">
     <title><h2>Pagina</h1></title>
   <style>
   h1{
