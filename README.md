@@ -28,7 +28,7 @@
   <body>
     <div class="cocina">
       <h1>COCINANDO FACIL</h1>
-      <img src="C:/Users/Nadia/Pictures/chef.jpg"width="200px" height="200px">
+      <img src="chef.jpg"width="200px" height="200px">
       <h3 aling="center">dale sabor a tu vida"</h3>
       </div>
     <div class="encuentrenos en:">
