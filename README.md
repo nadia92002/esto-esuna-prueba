@@ -2,91 +2,43 @@
 <html lang="es">
   <head>
     <meta charset="utf-8/">
-    <title><h1>Examen</h1></title>
+    <title><h2>Examen</h1></title>
   <style>
-    body{
-    background-color: red;
-    contenedor align: center; 
-    border: 2px solid blue;
-    border: 2px solid green;
-    height: 450px;
-    width: 450px;
-    float: right;
-    }
-    h1{
+  h1{
     color: red;
+    border: 2px solid green;
+    background-color: blue;
     margin: 5px;
     padding: 5px;
-    font-color: red;
     }
     .contenedor{
-    background-color: yellow;
     text-aling: center;
-    border: 2px solid blue;
-    height: 400px;
-    width: 400px;
-    float: left;
-    text-align: center   
-    }
+    background-color: blue;
+     border: 2px solid blue;
+    height: 500px;
+    width: 500px;
+    float: right;
+   }
     .uno{
-    }
-    .{
     }
     .dos{
     }
-    .{
-    }
-    .tres{
-    }
-    .{
-    }
-    .cuatro{
-    }
-    .{
-    }
-    .cinco{
-    }
-    .{
-    }
-    .seis{
-    }
-    .{
-    }
     </style>
-  </head>
+      </head>
   <body>
-   <div class="uno contenedor">
-     <h1>1</h1>
-    </div>
-    <div class=" contenedor">
-     <h1></h1>
-    </div>
-    <div class="dos contenedor">
-     <h1>2</h1>
-    </div>
-    <div class=" contenedor">
-     <h1></h1>
-    </div>
-    <div class="tres contenedor">
-     <h1>3</h1>
-    </div>
-    <div class=" contenedor">
-      <h1></h1>
-    </div>
-    <div class="cuatro contenedor">
-     <h1>4</h1>
-    </div>
-    <div class=" contenedor">
-     <h1></h1>
-    </div>
-    <div class="cinco contenedor">
-     <h1>5</h1>
-    </div>
-    <div class=" contenedor">
-     <h1></h1>
-    </div>
-    <div class="seis contenedor">
-     <h1>6</h1>
-    </div>
-  </body>
-  </html>
+    <div class="cocina">
+      <h1>COCINANDO</h1>
+      <img src="C:/Users/Nadia/Pictures/chef.jpg"width="200px" height="200px">
+      <h3 aling="center">dale sabor a tu vida"</h3>
+      </body>
+    </html>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
