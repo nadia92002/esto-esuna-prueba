@@ -34,7 +34,7 @@
       </div>
       <h3 align="right">encuentrenos en:</h3>
       <input type="botton">buscar</botton>
-    <h3 align="right">pagina de internet: www.cocinandofacil.com</h3>
+    <h3 align="right">pagina de internet: cocinando.net</h3>
     <h3 align="right">facebook: cocinando facil.net</h3>
     <h3 align="right">you tube: cocinandofacil</h3>
     </body>
