@@ -32,8 +32,7 @@
       <img src="C:/Users/Nadia/Pictures/chef.jpg"width="200px" height="200px">
       <h3 aling="center">dale sabor a tu vida"</h3>
       </div>
-    <div class="encuentrenos en:">
-      <h3>align="right">encuentrenos en:</h3>
+      <h3 align="right">encuentrenos en:</h3>
       <input type="botton">buscar</botton>
     <h3 align="right">pagina de internet: www.cocinandofacil.com</h3>
     <h3 align="right">facebook: cocinando facil.net</h3>
