@@ -24,14 +24,7 @@
     </style>
   </head>
   <body>
-    <form>
-      formulario:<br>
-    <input type="menu principal"
-    name="formulario"><br>
-      buscar:<br>
-      <input type="formulario"
-    name="menu principal">
-    </form>
+    <input type="button" value="Click Me">
       
     <div class="formulario">
       <h5>cual es tu nombre?</h5>
