@@ -24,6 +24,8 @@
     </style>
   </head>
   <body>
+    input type"formulario"
+    
     <div class="formulario">
       <h5>cual es tu nombre?</h5>
         <h5>que edad tienes?</h5>
