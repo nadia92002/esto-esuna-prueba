@@ -24,7 +24,7 @@
     </style>
   </head>
   <body>
-    <input type="button" value="Click Me">
+    <input type="button" value="siguiente">
       
     <div class="formulario">
       <h5>cual es tu nombre?</h5>
