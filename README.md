@@ -25,7 +25,8 @@
   </head>
   <body>
     <input type="button" value="siguiente">
-      
+      <input type="text" id="inputText" readonly="readonly">
+    <br>
     <div class="formulario">
       <h5>cual es tu nombre?</h5>
         <h5>que edad tienes?</h5>
