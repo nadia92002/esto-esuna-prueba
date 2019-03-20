@@ -41,7 +41,7 @@
      <div class=menu principal">
      <h1>menu principal</h1>
      <ul>
-     <li><img src="deportes.jpg"width="50px" height="50px"></li>
+     <li><img src="imagenes/deportes.jpg"width="50px" height="50px"></li>
      <h5 align="center">El ejercicio es una parte importante de un estilo de vida saludable. El ejercicio previene problemas de salud, aumenta la fuerza, aumenta la energía y puede ayudar a reducir el estrés. También puede ayudar a mantener un peso corporal saludable y reducir el apetito</h5>
       <li><img src="deportes2.jpg"width="50px" height="50px"></li> 
       <h5 align="center"> Tipos de deportes: 
