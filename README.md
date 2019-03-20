@@ -38,7 +38,6 @@
       
      <h3 align="center"></h3>
      </div>
-     <div class=menu principal">
      <h1>menu principal</h1>
      <ul>
      <img src="http://deportes.jpg" width="50px" height="50px">
