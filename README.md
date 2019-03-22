@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title><h2 align="center">COCINANDO</h2></title>
+    <title>COCINANDO</title>
   </head>
     <body>
       
