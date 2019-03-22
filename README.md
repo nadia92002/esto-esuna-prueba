@@ -17,7 +17,7 @@
      
      <h5 align="center">paginas</h5>
       <img src="Descargas/logo5.png" width="300" height="150">
-      </head>
+     
        </body>
-         </html>
+        
          
