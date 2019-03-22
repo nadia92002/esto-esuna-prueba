@@ -1,22 +1,22 @@
 <html>
   <head>
-    <title>COCINANDO</title>
+    <title>pantallas de telefono</title>
   </head>
     <body>
       <img src="Descargas/logo.png" width="300" height="150">
-      <h5 align="center">pagina1</h5>
+      <h5 align="center">pantalla con logo y redes sociales/h5>
       
        <img src="Descargas/logo2.png" width="300" height="150"> 
-       <h5 align="center">pagina2</h5>
+       <h5 align="center">menu principal</h5>
        
        <img src="Descargas/logo3.png" width="300" height="150">
-      <h5 align="center">pagina3</h5>
+      <h5 align="center">lista de menus con botones</h5>
       
        <img src="Descargas/logo4.png" width="300" height="150">
-      <h5 align="center">pagina4</h5>
+      <h5 align="center">paginas</h5>
       
       <img src="Descargas/logo5.png" width="300" height="150">
-      <h5 align="center">pagina5</h5>
+      <h5 align="center">paginas</h5>
   
        </body>
          </html>
