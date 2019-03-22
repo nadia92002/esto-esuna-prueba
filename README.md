@@ -3,7 +3,7 @@
     <title><h2 align=center">pantallas de telefono</h2></title>
   
     <body>
-        <h5 align="center">pantalla1</h5>
+        <h5 align="center">pantallas de telefono</h5>
      <img src="Descargas/logo.png" width="300" height="150">
       
        <h5 align="center">menu principal</h5>
