@@ -4,19 +4,19 @@
     <body>
      <h5 align="center">COCINANDO</h5>
       
-       <a href="Descargas/web.html"><img src="logo.png"></a>
+       <img src="logo.png" width="300" height="150">
       <h5 align="center">pagina1</h5>
       
-       <a href="Descargas/web.html"><img src="logo2.png"></a>
+       <img src="logo2.png" width="300" height="150"> 
        <h5 align="center">pagina2</h5>
        
-        <a href="Descargas/web.html"><img src="logo3.png"></a>
+       <img src="logo3.png" width="300" height="150">
       <h5 align="center">pagina1</h5>
       
-       <a href="Descargas/web.html"><img src="logo4.png"></a>
+       <img src="logo4.png" width="300" height="150">
       <h5 align="center">pagina1</h5>
       
-       <a href="Descargas/web.html"><img src="logo5.png"></a>
+      <img src="logo5.png" width="300" height="150">
       <h5 align="center">pagina1</h5>
   
             
