@@ -51,6 +51,9 @@
       <input type="button" value="Entrar">
      
      <style>
+     <!--In Mobile you can´t able to see the difference--> 
+     <select>
+     <option>Option1</option>
      <h3><font color="blue">Titulo1</h3>
      <h5><font color="black">Al crear la maquetacion de una pagina web en html</h5>
      <h3><font color="blue">Titulo2</h3>
@@ -59,7 +62,7 @@
      <h5><font color="black">Al crear la maquetacion de una pagina web en
      <center><font color="blue">input type="button" value="Ver todas las entradas"></center>
      </div>
-     <div class="contenedor2">
+     <div class="contenedor3">
      <h5><font color="black">Identificate</h5>
       E-mail:
     <input type="text">
