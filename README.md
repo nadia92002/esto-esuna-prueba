@@ -42,15 +42,15 @@
      <input type="button" value="Categoria4">
      <input type="button" value="Sobre Mi">
      
-      <style>
+        <div class="contenedor2">
      <h3><font color="blue">Titulo1</h3>
      <h5><font color="black">Al crear la maquetacion de una pagina web en html</h5>
      <h3><font color="blue">Titulo2</h3>
      <h5><font color="black">Al crear la maquetacion de una pagina web en</h5>
      <h3><font color="blue">Titulo3</h3>
      <h5><font color="black">Al crear la maquetacion de una pagina web en</h5>
-     
-     <div class="contenedor2">
+     </div>
+     <div class="contenedor3">
      <h5>Identificate</h5>
       E-mail:
     <input type="text">
