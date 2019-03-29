@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
   <head>
     <tittle><h1>Blog de musica retro</h1></tittle>
@@ -68,7 +68,7 @@
     <input type="text">
     <br>password:
      <input type="password">
-     <a href =index.html>entrar</a>
+      <input type="button" value="Entrar">
      </div>
      </body>
      </html>
