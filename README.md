@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <tittle><h1>Blog de musica</h1></tittle>
+    <tittle><h1>Blog de musica retro</h1></tittle>
  <style>
    h1{
    color: blue;
@@ -43,7 +43,7 @@
      <input type="button" value="Sobre Mi">
      
     <div class="contenedor2">
-    <h5>font color="black">Identificate</h5>
+    <h5><font color="black">Identificate</h5>
     E-mail:
     <input type="text">
     <br>password:
