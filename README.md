@@ -28,8 +28,8 @@
     text-aling: center;
    background: whrite;
    border: 2px solid black;
-   height: 500px;
-   width: 500px;
+   height: 700px;
+   width: 700px;
    float: left;
    }
     </style>
