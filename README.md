@@ -1,23 +1,88 @@
+<!DOCTYPE html>
 <html>
   <head>
-    <title><h2 align=center">pantallas de telefono</h2></title>
-  
-    <body>
-        <h5 align="center">pantallas de telefono</h5>
-     <img src="Descargas/logo.png" width="300" height="150">
-      
-       <h5 align="center">menu principal</h5>
-       <img src="Descargas/logo2.png" width="300" height="150"> 
-       
-        <h5 align="center">lista de menus con botones</h5>
-       <img src="Descargas/logo3.png" width="300" height="150">
+    <title><h1>Blog de musica</h1></title>
+ <style>
+   h1{
+   color: blue;
+   margin: 5px;
+   padding: 5px;
+   }
+   .contenedor{
+   text-aling: center;
+   background: whrite;
+   border: 2px solid black;
+   height: 500px;
+   width: 700px;
+   float: left;
+   }
+   .contenedor2{
+    text-aling: center;
+   background: whrite;
+   border: 2px solid black;
+   height: 250px;
+   width: 250px;
+   float: right;
+   }
+   .contenedor3{
+    text-aling: center;
+   background: whrite;
+   border: 2px solid black;
+   height: 250px;
+   width: 250px;
+   float: right;
+   }
+    </style>
+  </head>
+  <body>
+    <input type="button" value="Inicio">
+     <input type="button" value="Categoria1">
+     <input type="button" value="Categoria2">
+     <input type="button" value="Categoria3">
+     <input type="button" value="Categoria4">
+     <input type="button" value="Sobre Mi">
      
-       <h5 align="center">paginas</h5>
-      <img src="Descargas/logo4.png" width="300" height="150">
+    <div class="contenedor2">
+    <h5>font color="black">Identificate</h5>
+    E-mail:
+    <input type="text">
+    <br>password:
+     <input type="password">
+     <a heref =index.html>entrar</a>
      
-     <h5 align="center">paginas</h5>
-      <img src="Descargas/logo5.png" width="300" height="150">
+     <style>
+     <!--In Mobile you can´t able to see the difference--> 
+     <select>
+     <option>Option1</option>
+     <h3><font color="blue">Titulo1</h3>
+     <h5><font color="black">Al crear la maquetacion de una pagina web en html</h5>
+     <h3><font color="blue">Titulo2</h3>
+     <h5><font color="black">Al crear la maquetacion de una pagina web en
+     <h3><font color="blue">Titulo3</h3>
+     <h5><font color="black">Al crear la maquetacion de una pagina web en
+     <center><font color="blue">input type="button" value="Ver todas las entradas"></center>
+     </div>
+     <div class="contenedor2">
+     <h5><font color="black">Identificate</h5>
+      E-mail:
+    <input type="text">
+    <br>password:
+     <input type="password">
+     <a heref =index.html>entrar</a>
+     </div>
+     </body>
+     </html>
      
-       </body>
-        
+     
+     
+     
+     
+     
+     
+     
+     
+     
+    
+    
+    
          
