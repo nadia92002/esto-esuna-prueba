@@ -20,8 +20,8 @@
     text-aling: center;
    background: whrite;
    border: 2px solid black;
-   height: 300px;
-   width: 200x;
+   height: 500px;
+   width: 450x;
    float: right;
    }
    .contenedor3{
@@ -29,7 +29,7 @@
    background: whrite;
    border: 2px solid black;
    height: 500px;
-   width: 300px;
+   width: 450px;
    float: left;
    }
     </style>
