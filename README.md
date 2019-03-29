@@ -50,10 +50,8 @@
      <input type="password">
       <input type="button" value="Entrar">
       </div>
+      
       <div class="contenedor3">
-     <!--In Mobile you can´t able to see the difference--> 
-     <select>
-     <option>Option1</option>
      <h3><font color="blue">Titulo1</h3>
      <h5><font color="black">Al crear la maquetacion de una pagina web en html</h5>
      <h3><font color="blue">Titulo2</h3>
