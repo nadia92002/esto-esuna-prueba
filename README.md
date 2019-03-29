@@ -12,7 +12,7 @@
    text-aling: center;
    background: whrite;
    border: 2px solid black;
-   height: 700px;
+   height: 500px;
    width: 700px;
    float: left;
    }
@@ -28,7 +28,7 @@
     text-aling: center;
    background: whrite;
    border: 2px solid black;
-   height: 700px;
+   height: 500px;
    width: 700px;
    float: left;
    }
@@ -52,12 +52,12 @@
      </div>
      
         <div class="contenedor3">
-     <h3><font color="blue">Titulo1</h3>
-     <h5><font color="black">Al crear la maquetacion de una pagina web en html</h5>
-     <h3><font color="blue">Titulo2</h3>
-     <h5><font color="black">Al crear la maquetacion de una pagina web en</h5>
-     <h3><font color="blue">Titulo3</h3>
-     <h5><font color="black">Al crear la maquetacion de una pagina web en</h5>
+     <h3><font color="blue">Titulo1
+     <h5><font color="black">Al crear la maquetacion de una pagina web en html
+     <h3><font color="blue">Titulo2
+     <h5><font color="black">Al crear la maquetacion de una pagina web en
+     <h3><font color="blue">Titulo3
+     <h5><font color="black">Al crear la maquetacion de una pagina web en
      
      
      
