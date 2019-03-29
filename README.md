@@ -13,7 +13,7 @@
    background: whrite;
    border: 2px solid black;
    height: 700px;
-   width: 500px;
+   width: 700px;
    float: left;
    }
    .contenedor2{
