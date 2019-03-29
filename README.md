@@ -57,14 +57,6 @@
      <h3><font color="blue">Titulo3</h3>
      <h5><font color="black">Al crear la maquetacion de una pagina web en</h5>
      </div>
-      <div class="contenedor2">
-     <h5>Identificate</h5>
-      E-mail:
-    <input type="text">
-    <br>password:
-     <input type="password">
-      <input type="button" value="Entrar">
-     </div>
      </body>
      </html>
      
