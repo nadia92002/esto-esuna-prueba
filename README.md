@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title><h1>Blog de musica</h1></title>
+    <tittle><h1>Blog de musica</h1></tittle>
  <style>
    h1{
    color: blue;
@@ -48,7 +48,7 @@
     <input type="text">
     <br>password:
      <input type="password">
-     <a heref =index.html>entrar</a>
+     <a href =index.html>entrar</a>
      
      <style>
      <!--In Mobile you can´t able to see the difference--> 
@@ -68,7 +68,7 @@
     <input type="text">
     <br>password:
      <input type="password">
-     <a heref =index.html>entrar</a>
+     <a href =index.html>entrar</a>
      </div>
      </body>
      </html>
