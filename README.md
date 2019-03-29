@@ -13,14 +13,14 @@
    background: whrite;
    border: 2px solid black;
    height: 500px;
-   width: 300px;
+   width: 700px;
    float: left;
    }
    .contenedor2{
     text-aling: center;
    background: whrite;
    border: 2px solid black;
-   height: 200px;
+   height: 300px;
    width: 300x;
    float: right;
    }
@@ -28,8 +28,8 @@
     text-aling: center;
    background: whrite;
    border: 2px solid black;
-   height: 400px;
-   width: 500px;
+   height: 500px;
+   width: 700px;
    float: left;
    }
     </style>
