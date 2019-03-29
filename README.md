@@ -12,8 +12,8 @@
    text-aling: center;
    background: whrite;
    border: 2px solid black;
-   height: 500px;
-   width: 700px;
+   height: 300px;
+   width: 500px;
    float: left;
    }
    .contenedor2{
@@ -58,7 +58,8 @@
      <h5><font color="black">Al crear la maquetacion de una pagina web en
      <h3><font color="blue">Titulo3
      <h5><font color="black">Al crear la maquetacion de una pagina web en
-     
+      <input type="button" value="Entrar">
+      </div>
      
      
      
