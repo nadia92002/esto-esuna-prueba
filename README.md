@@ -21,15 +21,15 @@
    background: whrite;
    border: 2px solid black;
    height: 200px;
-   width: 300x;
+   width: 200x;
    float: right;
    }
    .contenedor3{
     text-aling: center;
    background: whrite;
    border: 2px solid black;
-   height: 500px;
-   width: 450px;
+   height: 400px;
+   width: 500px;
    float: left;
    }
     </style>
