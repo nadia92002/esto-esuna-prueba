@@ -48,7 +48,7 @@
     <input type="text">
     <br>password:
      <input type="password">
-     <a href =index.html>entrar</a>
+      <input type="button" value="Entrar">
      
      <style>
      <!--In Mobile you can´t able to see the difference--> 
