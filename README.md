@@ -60,7 +60,7 @@
      <h5><font color="black">Al crear la maquetacion de una pagina web en
       <center><input type="button" value="Entrar"></center>
        
-       <h9><img src="logo"></h9>
+       <img src="Descargas/logo.jpg" width="100" height="100">
         
    
     
