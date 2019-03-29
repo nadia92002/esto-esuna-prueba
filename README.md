@@ -21,7 +21,7 @@
    background: whrite;
    border: 2px solid black;
    height: 200px;
-   width: 200x;
+   width: 300x;
    float: right;
    }
    .contenedor3{
