@@ -20,9 +20,9 @@
     text-aling: center;
    background: whrite;
    border: 2px solid black;
-   height: 250px;
-   width: 250px;
-   float: right;
+   height: 500px;
+   width: 750px;
+   float: left;
    }
    .contenedor3{
     text-aling: center;
