@@ -12,15 +12,15 @@
    text-aling: center;
    background: whrite;
    border: 2px solid black;
-   height: 500px;
-   width: 700px;
+   height: 700px;
+   width: 500px;
    float: left;
    }
    .contenedor2{
     text-aling: center;
    background: whrite;
    border: 2px solid black;
-   height: 200px;
+   height: 300px;
    width: 200x;
    float: right;
    }
