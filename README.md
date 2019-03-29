@@ -20,16 +20,16 @@
     text-aling: center;
    background: whrite;
    border: 2px solid black;
-   height: 500px;
-   width: 750px;
-   float: left;
+   height: 250px;
+   width: 250x;
+   float: right;
    }
    .contenedor3{
     text-aling: center;
    background: whrite;
    border: 2px solid black;
-   height: 250px;
-   width: 250px;
+   height: 500px;
+   width: 700px;
    float: left;
    }
     </style>
@@ -51,7 +51,7 @@
       <input type="button" value="Entrar">
      </div>
      
-        <div class="contenedor2">
+        <div class="contenedor3">
      <h3><font color="blue">Titulo1</h3>
      <h5><font color="black">Al crear la maquetacion de una pagina web en html</h5>
      <h3><font color="blue">Titulo2</h3>
