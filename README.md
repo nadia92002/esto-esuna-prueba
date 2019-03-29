@@ -22,7 +22,7 @@
    border: 2px solid black;
    height: 250px;
    width: 250px;
-   float: right;
+   float: left;
    }
    .contenedor3{
     text-aling: center;
@@ -43,14 +43,6 @@
      <input type="button" value="Sobre Mi">
      
     <div class="contenedor2">
-    <h5><font color="black">Identificate</h5>
-    E-mail:
-    <input type="text">
-    <br>password:
-     <input type="password">
-      <input type="button" value="Entrar">
-     
-     <style>
      <!--In Mobile you can´t able to see the difference--> 
      <select>
      <option>Option1</option>
