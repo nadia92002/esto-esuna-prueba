@@ -59,7 +59,6 @@
      <h3><font color="blue">Titulo3
      <h5><font color="black">Al crear la maquetacion de una pagina web en
       <center><input type="button" value="Entrar"></center>
-       </div>
        
        <img src="Descargas/logo.jpg" width="500" height="500">
         
