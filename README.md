@@ -48,7 +48,7 @@
     <input type="text">
     <br>password:
      <input type="password">
-      <input type="button" value="Entrar">
+      <center><input type="button" value="Entrar"></center>
      </div>
      
         <div class="contenedor3">
