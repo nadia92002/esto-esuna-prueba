@@ -22,7 +22,7 @@
    border: 2px solid black;
    height: 250px;
    width: 250px;
-   float: left;
+   float: right;
    }
    .contenedor3{
     text-aling: center;
@@ -42,7 +42,15 @@
      <input type="button" value="Categoria4">
      <input type="button" value="Sobre Mi">
      
-    <div class="contenedor2">
+     <div class="contenedor2">
+     <h5><font color="black">Identificate</h5>
+      E-mail:
+    <input type="text">
+    <br>password:
+     <input type="password">
+      <input type="button" value="Entrar">
+      </div>
+      <div class="contenedor3">
      <!--In Mobile you can´t able to see the difference--> 
      <select>
      <option>Option1</option>
@@ -53,14 +61,6 @@
      <h3><font color="blue">Titulo3</h3>
      <h5><font color="black">Al crear la maquetacion de una pagina web en
      <center><font color="blue">input type="button" value="Ver todas las entradas"></center>
-     </div>
-     <div class="contenedor3">
-     <h5><font color="black">Identificate</h5>
-      E-mail:
-    <input type="text">
-    <br>password:
-     <input type="password">
-      <input type="button" value="Entrar">
      </div>
      </body>
      </html>
