@@ -20,8 +20,8 @@
     text-aling: center;
    background: whrite;
    border: 2px solid black;
-   height: 250px;
-   width: 250x;
+   height: 200px;
+   width: 200x;
    float: right;
    }
    .contenedor3{
