@@ -30,7 +30,7 @@
    border: 2px solid black;
    height: 250px;
    width: 250px;
-   float: right;
+   float: left;
    }
     </style>
   </head>
@@ -49,7 +49,7 @@
     <br>password:
      <input type="password">
       <input type="button" value="Entrar">
-      </div>
+      <style>
       
       <div class="contenedor3">
      <h3><font color="blue">Titulo1</h3>
