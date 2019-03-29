@@ -58,9 +58,6 @@
      <h5><font color="black">Al crear la maquetacion de una pagina web en</h5>
      <h3><font color="blue">Titulo3</h3>
      <h5><font color="black">Al crear la maquetacion de una pagina web en</h5>
-     </div>
-     </body>
-     </html>
      
      
      
