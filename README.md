@@ -1,4 +1,3 @@
-
 <html>
   <head>
     <tittle><h1>Blog de musica retro</h1></tittle>
