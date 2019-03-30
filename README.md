@@ -43,7 +43,7 @@
      <input type="button" value="Sobre Mi">
      
      <div class="contenedor2">
-     <center><h5><font color="blue">Identificate</h5></center>
+     <h5><font color="blue">Identificate</h5>
       E-mail:
     <input type="text">
     <br>password:
