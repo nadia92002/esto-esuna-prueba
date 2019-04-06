@@ -6,8 +6,8 @@
    text-aling: center;
    background: LightPink;
    border: 2px solid black;
-   height: 1000px;
-   width: 850px;
+   height: 850px;
+   width: 1000px;
    float: left;
    }
     .contenedor2{
