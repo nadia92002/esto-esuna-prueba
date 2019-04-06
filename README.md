@@ -27,7 +27,7 @@
    float: right;
    }
     .contenedor4{
-   text-aling: center;
+   text-aling: above;
    background: Image;
    border: 2px solid black;
    height: 30px;
@@ -39,7 +39,7 @@
   <body>
     <div class="contenedor">
       <h1><font color="Coral"><center>Cocinando</center>
-        <img src="https://image.freepik.com/vector-gratis/vector-cocinero-hipster_23-2147498366.jpg" height="200px" width="250">
+        <img src="https://t3.ftcdn.net/jpg/00/37/54/08/500_F_37540842_yhRP0cjzROZDg4wNDlehdwyrYhOjD1C2.jpg" height="250" width="250">
         <font color="black"><center>Dale color y sabor a tu vida</center>
  
       <div class="contenedor2">
