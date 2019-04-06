@@ -4,10 +4,10 @@
  <style>
    .contenedor{
    text-aling: center;
-   background: LightPink;;
+   background: Aqua;
    border: 2px solid black;
-   height: 500px;
-   width: 700px;
+   height: 850px;
+   width: 1000px;
    float: left;
    }
     </style>
@@ -15,7 +15,7 @@
   <body>
     <div class="contenedor">
       <h1><font color="Coral"><center>Cocinando</center></h1>
-        <img src="" height="200px" width="250">
+        <img src="https://t3.ftcdn.net/jpg/00/37/54/08/500_F_37540842_yhRP0cjzROZDg4wNDlehdwyrYhOjD1C2.jpg" height="200px" width="250">
         <h3><font color="black"><center>Dale color y sabor a tu vida</center></h3>
           </style>
         </head>
