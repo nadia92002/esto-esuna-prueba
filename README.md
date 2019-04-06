@@ -38,7 +38,7 @@
   </head>
   <body>
     <div class="contenedor">
-      <h1><font color="Coral"><center>Cocinando</center>
+      <h1><font color="Coral">Cocinando</h1>
         <img src="https://t3.ftcdn.net/jpg/00/37/54/08/500_F_37540842_yhRP0cjzROZDg4wNDlehdwyrYhOjD1C2.jpg" height="250" width="250">
         <font color="black"><center>Dale color y sabor a tu vida</center>
  
