@@ -7,7 +7,7 @@
    background: LightPink;
    border: 2px solid black;
    height: 850px;
-   width: 1000px;
+   width: 850px;
    float: left;
    }
     .contenedor2{
@@ -38,7 +38,7 @@
   </head>
   <body>
     <div class="contenedor">
-      <font color="Coral"><center>Cocinando</center>
+      <font color="Coral"><h1>Cocinando</h1>
         <img src="https://t3.ftcdn.net/jpg/00/37/54/08/500_F_37540842_yhRP0cjzROZDg4wNDlehdwyrYhOjD1C2.jpg" height="250" width="250">
         <font color="Aqua"><center>Dale color y sabor a tu vida</center>
  
