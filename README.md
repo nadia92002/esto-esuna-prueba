@@ -4,7 +4,7 @@
  <style>
    .contenedor{
    text-aling: center;
-   background: Aqua;
+   background: LightPink;
    border: 2px solid black;
    height: 850px;
    width: 1000px;
