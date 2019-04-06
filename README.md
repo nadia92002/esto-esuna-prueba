@@ -1,31 +1,10 @@
 <html>
   <head>
-    <tittle><h1>Blog de musica retro</h1></tittle>
+    <tittle></tittle>
  <style>
-   h1{
-   color: blue;
-   margin: 5px;
-   padding: 5px;
-   }
    .contenedor{
    text-aling: center;
-   background: whrite;
-   border: 2px solid black;
-   height: 500px;
-   width: 700px;
-   float: left;
-   }
-   .contenedor2{
-    text-aling: center;
-   background: whrite;
-   border: 2px solid black;
-   height: 250px;
-   width: 250x;
-   float: right;
-   }
-   .contenedor3{
-    text-aling: center;
-   background: whrite;
+   background: LightPink;;
    border: 2px solid black;
    height: 500px;
    width: 700px;
@@ -34,28 +13,18 @@
     </style>
   </head>
   <body>
-    <input type="button" value="Inicio">
-     <input type="button" value="Categoria1">
-     <input type="button" value="Categoria2">
-     <input type="button" value="Categoria3">
-     <input type="button" value="Categoria4">
-     <input type="button" value="Sobre Mi">
-     
-     <div class="contenedor2">
-     <h5>Identificate</h5>
-      E-mail:
-    <input type="text">
-    <br>password:
-     <input type="password">
-      <center><input type="button" value="Entrar"></center>
-     </div>
-     
-        <div class="contenedor3">
-     <h3><font color="blue">Titulo1
-     <h5><font color="black">Al crear la maquetacion de una pagina web en html
-     <h3><font color="blue">Titulo2
-     <h5><font color="black">Al crear la maquetacion de una pagina web en
-     <h3><font color="blue">Titulo3
-     <h5><font color="black">Al crear la maquetacion de una pagina web en
-      <center><input type="button" value="Entrar"></center>
-    
+    <div class="contenedor">
+      <h1><font color="Coral"><center>Cocinando</center></h1>
+        <img src="" height="200px" width="250">
+        <h3><font color="black"><center>Dale color y sabor a tu vida</center></h3>
+          </style>
+        </head>
+      </body>
+    <div class="contenedor2">
+    </div>
+    <div class="contenedor3">
+    </div>
+    <div class="contenedor4">
+    </div>
+  </body>
+  </html>
