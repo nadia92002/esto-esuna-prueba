@@ -38,9 +38,9 @@
   </head>
   <body>
     <div class="contenedor">
-      <h1><font color="Coral"><center>Cocinando</center></h1>
+      <h1><font color="Coral"><center>Cocinando</center>
         <img src="https://t3.ftcdn.net/jpg/00/37/54/08/500_F_37540842_yhRP0cjzROZDg4wNDlehdwyrYhOjD1C2.jpg" height="250" width="250">
-        <h3><font color="Aqua"><center>Dale color y sabor a tu vida</center></h3>
+        <h3><font color="Aqua"><center>Dale color y sabor a tu vida</center>
  
       <div class="contenedor2">
     <center><img src="https://www.facebook.com/images/fb_icon_325x325.png" height="30px" width="30px"></center>
