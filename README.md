@@ -16,9 +16,8 @@
     <div class="contenedor">
       <h1><font color="Coral"><center>Cocinando</center></h1>
         <img src="https://image.freepik.com/vector-gratis/vector-cocinero-hipster_23-2147498366.jpg" height="200px" width="250">
-        <h3><font color="black"><center>Dale color y sabor a tu vida</center></h3>
+        <font color="black"><center>Dale color y sabor a tu vida</center></h3>
  
-      </body>
       <div class="contenedor2">
     <img src="https://www.facebook.com/images/fb_icon_325x325.png" height="30px" width="30px">
     </div>
@@ -27,4 +26,5 @@
     <div class="contenedor4">
       <img src="https://www.youtube.com/yts/img/yt_1200-vfl4C3T0K.png" height="30px" width="30px">
     </div>
+    </body>
   </html>
