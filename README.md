@@ -43,7 +43,7 @@
         <font color="black"><center>Dale color y sabor a tu vida</center>
  
       <div class="contenedor2">
-    <img src="https://www.facebook.com/images/fb_icon_325x325.png" height="30px" width="30px">
+    <center><img src="https://www.facebook.com/images/fb_icon_325x325.png" height="30px" width="30px"></center>
     </div>
     <div class="contenedor3">
      <img src="https://www.nayibnarvaez.com.co/wp-content/uploads/2017/10/instagra.jpg" height="30px" width="30px">
