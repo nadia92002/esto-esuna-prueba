@@ -11,7 +11,7 @@
    float: left;
    }
     .contenedor1{
-   text-aling: center;
+   text-aling: above;
    background: whrite;
    border: 2px solid black;
    height: 400px;
@@ -19,7 +19,7 @@
    float: left;
    }
     .contenedor2{
-   text-aling: center;
+   text-aling: above;
    background: whrite;
    border: 2px solid black;
    height: 400px;
@@ -27,7 +27,7 @@
    float: right;
    }
     .contenedor3{
-   text-aling: center;
+   text-aling: above;
    background: whrite;
    border: 2px solid black;
    height: 400px;
