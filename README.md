@@ -7,7 +7,7 @@
    background: Image;
    border: 2px;
    height: 600px;
-   width: 1800px;
+   width: 1300px;
    float: left;
    }
     .contenedor1{
