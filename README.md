@@ -14,24 +14,24 @@
    text-aling: center;
    background: whrite;
    border: 2px solid black;
-   height: 200px;
-   width: 150px;
+   height: 300px;
+   width: 250px;
    float: left;
    }
     .contenedor2{
    text-aling: center;
    background: whrite;
    border: 2px solid black;
-   height: 200px;
-   width: 150px;
+   height: 300px;
+   width: 250px;
    float: left;
    }
     .contenedor3{
    text-aling: center;
    background: whrite;
    border: 2px solid black;
-   height: 200px;
-   width: 150px;
+   height: 300px;
+   width: 250px;
    float: left;
    }
     </style>
@@ -52,7 +52,7 @@
    </div>
   
     <div class="contenedor3">
-      <img src="https://www.youtube.com/yts/img/yt_1200-vfl4C3T0K.png" height="80px" width="80px">
+      <img src="https://img.blogs.es/anexom/wp-content/uploads/2014/01/philips-tv.jpg" height="250px" width="150px">
         <img src="https://d500.epimg.net/cincodias/imagenes/2015/08/24/lifestyle/1440420274_400517_1440420311_noticia_normal.jpg" height="80px" width="80px">
       </div>
     
