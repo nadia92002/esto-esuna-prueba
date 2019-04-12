@@ -6,8 +6,8 @@
    text-aling: center;
    background: Image;
    border: 2px;
-   height: 2500px;
-   width: 2500px;
+   height: 1300px;
+   width: 1300px;
    float: left;
    }
     .contenedor1{
