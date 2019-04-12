@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
   <head>
     <tittle></tittle>
@@ -12,7 +13,7 @@
    }
     .contenedor1{
    text-aling: above;
-   background: whrite;
+   background: red;
    border: 2px solid black;
    height: 400px;
    width: 380px;
@@ -20,15 +21,15 @@
    }
     .contenedor2{
    text-aling: above;
-   background: whrite;
+   background: red;
    border: 2px solid black;
-   height: 400px;
-   width: 380px;
+   height: 300px;
+   width: 200px;
    float: right;
    }
     .contenedor3{
    text-aling: above;
-   background: whrite;
+   background: red;
    border: 2px solid black;
    height: 400px;
    width: 380px;
