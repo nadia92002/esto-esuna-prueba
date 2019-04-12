@@ -47,10 +47,11 @@
     
     <div class="contenedor2">
   <img src="https://static.wixstatic.com/media/b6812f_1e68766f2ff44bae9f3df342675f6204~mv2.png" height="80px" width="80px"> 
+  <img src="https://www.facebook.com/images/fb_icon_325x325.png" height="80px" width="80px"> 
+  
   </div>
   
     <div class="contenedor3">
       <img src="https://www.youtube.com/yts/img/yt_1200-vfl4C3T0K.png" height="80px" width="80px">
       </div>
-    </body>
-    </html>
+    
