@@ -38,7 +38,7 @@
   </head>
   <body>
     <div class="contenedor">
-        <img src="https://image.freepik.com/foto-gratis/viejo-grunge-fondo-negro-gris_74190-2032.jpg" height="600" width="1800">
+        <img src="https://image.freepik.com/foto-gratis/viejo-grunge-fondo-negro-gris_74190-2032.jpg" height="600" width="1300">
    
     <div class="contenedor1">
   <img src="https://66.media.tumblr.com/958c5daab6054c651fe26cc5f741ce02/tumblr_mhg36htcr61qhr3m2o1_400.jpg" height="100px" width="200px">
