@@ -24,7 +24,7 @@
    border: 2px solid black;
    height: 300px;
    width: 250px;
-   float: left;
+   float: center;
    }
     .contenedor3{
    text-aling: center;
