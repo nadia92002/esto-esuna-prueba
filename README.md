@@ -15,7 +15,7 @@
    background: whrite;
    border: 2px solid black;
    height: 400px;
-   width: 380px;
+   width: 250px;
    float: left;
    }
     .contenedor2{
@@ -23,7 +23,7 @@
    background: whrite;
    border: 2px solid black;
    height: 400px;
-   width: 380px;
+   width: 250px;
    float: right;
    }
     .contenedor3{
@@ -31,7 +31,7 @@
    background: whrite;
    border: 2px solid black;
    height: 400px;
-   width: 380px;
+   width: 250px;
    float: right;
    }
     </style>
