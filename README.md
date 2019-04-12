@@ -6,7 +6,7 @@
    text-aling: center;
    background: Image;
    border: 2px;
-   height: 600px;
+   height: 650px;
    width: 1300px;
    float: left;
    }
