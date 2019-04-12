@@ -6,9 +6,9 @@
    text-aling: center;
    background: Image;
    border: 2px;
-   height: 2000px;
-   width: 2000px;
-   float: left;
+   height: 2500px;
+   width: 2500px;
+   float: center;
    }
     .contenedor1{
    text-aling: center;
