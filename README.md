@@ -14,24 +14,24 @@
    text-aling: center;
    background: whrite;
    border: 2px solid black;
-   height: 400px;
-   width: 380px;
+   height: 500px;
+   width: 250px;
    float: left;
    }
     .contenedor2{
    text-aling: center;
    background: whrite;
    border: 2px solid black;
-   height: 400px;
-   width: 380px;
+   height: 500px;
+   width: 250px;
    float: right;
    }
     .contenedor3{
    text-aling: center;
    background: whrite;
    border: 2px solid black;
-   height: 400px;
-   width: 380px;
+   height: 500px;
+   width: 250px;
    float: right;
    }
     </style>
