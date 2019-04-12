@@ -45,7 +45,7 @@
 <img src="https://images.immediate.co.uk/volatile/sites/3/2017/06/97418.jpg?quality=90&resize=620,413" height="80px" width="80px">
    </div>
    
-    <div class="contenedor2">
+    <span><div class="contenedor2"></span>
   <img src="https://static.wixstatic.com/media/b6812f_1e68766f2ff44bae9f3df342675f6204~mv2.png" height="80px" width="80px"> 
   <img src="https://www.facebook.com/images/fb_icon_325x325.png" height="80px" width="80px"> 
   <img src="https://cdn.images.express.co.uk/img/dynamic/59/590x/Gmail-Hotmail-and-Yahoo-How-to-set-up-a-FREE-email-account-Are-all-emails-free-1003636.jpg?r=1534326633778" height="200px" width="100px">
