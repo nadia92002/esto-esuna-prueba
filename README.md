@@ -12,7 +12,7 @@
    }
     .contenedor1{
    text-aling: center;
-   background: red;
+   background: whrite;
    border: 2px solid black;
    height: 400px;
    width: 380px;
@@ -20,7 +20,7 @@
    }
     .contenedor2{
    text-aling: center;
-   background: red;
+   background: whrite;
    border: 2px solid black;
    height: 300px;
    width: 200px;
@@ -28,7 +28,7 @@
    }
     .contenedor3{
    text-aling: center;
-   background: red;
+   background: whrite;
    border: 2px solid black;
    height: 400px;
    width: 380px;
