@@ -14,7 +14,7 @@
    text-aling: center;
    background: whrite;
    border: 2px solid black;
-   height: 300px;
+   height: 400px;
    width: 250px;
    float: left;
    }
@@ -22,7 +22,7 @@
    text-aling: center;
    background: whrite;
    border: 2px solid black;
-   height: 300px;
+   height: 400px;
    width: 250px;
    float: left;
    }
@@ -30,7 +30,7 @@
    text-aling: center;
    background: whrite;
    border: 2px solid black;
-   height: 300px;
+   height: 400px;
    width: 250px;
    float: left;
    }
