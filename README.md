@@ -12,7 +12,7 @@
    float: left;
    }
     .contenedor1{
-   text-aling: above;
+   text-aling: center;
    background: red;
    border: 2px solid black;
    height: 400px;
@@ -20,7 +20,7 @@
    float: left;
    }
     .contenedor2{
-   text-aling: above;
+   text-aling: center;
    background: red;
    border: 2px solid black;
    height: 300px;
@@ -28,7 +28,7 @@
    float: right;
    }
     .contenedor3{
-   text-aling: above;
+   text-aling: center;
    background: red;
    border: 2px solid black;
    height: 400px;
@@ -47,6 +47,7 @@
     </div>
     <div class="contenedor2">
       <center><img src="https://static.wixstatic.com/media/b6812f_1e68766f2ff44bae9f3df342675f6204~mv2.png" height="80px" width="80px"> </center>
+  </div>
     <div class="contenedor4">
        <center><img src="https://www.youtube.com/yts/img/yt_1200-vfl4C3T0K.png" height="80px" width="80px"></center>
     </div>
