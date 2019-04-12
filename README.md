@@ -43,13 +43,13 @@
     <div class="contenedor1">
   <img src="https://66.media.tumblr.com/958c5daab6054c651fe26cc5f741ce02/tumblr_mhg36htcr61qhr3m2o1_400.jpg" height="100px" width="200px">
 <img src="https://images.immediate.co.uk/volatile/sites/3/2017/06/97418.jpg?quality=90&resize=620,413" height="80px" width="80px">
-   </div> 
+   
     
     <div class="contenedor2">
   <img src="https://static.wixstatic.com/media/b6812f_1e68766f2ff44bae9f3df342675f6204~mv2.png" height="80px" width="80px"> 
   <img src="https://www.facebook.com/images/fb_icon_325x325.png" height="80px" width="80px"> 
   <img src="https://cdn.images.express.co.uk/img/dynamic/59/590x/Gmail-Hotmail-and-Yahoo-How-to-set-up-a-FREE-email-account-Are-all-emails-free-1003636.jpg?r=1534326633778" height="200px" width="100px">
-  </div>
+  
   
     <div class="contenedor3">
       <img src="https://www.youtube.com/yts/img/yt_1200-vfl4C3T0K.png" height="80px" width="80px">
