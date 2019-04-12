@@ -41,7 +41,7 @@
         <img src="https://image.freepik.com/foto-gratis/viejo-grunge-fondo-negro-gris_74190-2032.jpg" height="650" width="1000">
    
     <div class="contenedor1">
-  <img src="https://66.media.tumblr.com/958c5daab6054c651fe26cc5f741ce02/tumblr_mhg36htcr61qhr3m2o1_400.jpg" height="100px" width="200px">
+  <img src="https://66.media.tumblr.com/958c5daab6054c651fe26cc5f741ce02/tumblr_mhg36htcr61qhr3m2o1_400.jpg" height="200px" width="350px">
 <img src="https://images.immediate.co.uk/volatile/sites/3/2017/06/97418.jpg?quality=90&resize=620,413" height="80px" width="80px">
    </div> 
     
