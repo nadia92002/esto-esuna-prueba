@@ -16,7 +16,6 @@
    border: 2px solid black;
    height: 400px;
    width: 380px;
-   padding: .2px;
    float: left;
    }
     .contenedor2{
@@ -25,7 +24,6 @@
    border: 2px solid black;
    height: 400px;
    width: 380px;
-   padding: .2;
    float: right;
    }
     .contenedor3{
@@ -34,7 +32,6 @@
    border: 2px solid black;
    height: 400px;
    width: 380px;
-   padding: .2px;
    float: right;
    }
     </style>
