@@ -24,7 +24,7 @@
    border: 2px solid black;
    height: 300px;
    width: 250px;
-   float: right;
+   float: left;
    }
     .contenedor3{
    text-aling: center;
@@ -32,7 +32,7 @@
    border: 2px solid black;
    height: 300px;
    width: 250px;
-   float: right;
+   float: left;
    }
     </style>
   </head>
