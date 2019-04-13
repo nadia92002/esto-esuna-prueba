@@ -53,6 +53,6 @@
    </div>
   
     <div class="contenedor3">
-      <img src="https://img.blogs.es/anexom/wp-content/uploads/2014/01/philips-tv.jpg" height="350px" width="250px">
+      <img src="https://img.blogs.es/anexom/wp-content/uploads/2014/01/philips-tv.jpg" height="350px" width="280px">
       </div>
     
