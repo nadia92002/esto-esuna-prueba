@@ -44,6 +44,7 @@
   <img src="https://66.media.tumblr.com/958c5daab6054c651fe26cc5f741ce02/tumblr_mhg36htcr61qhr3m2o1_400.jpg" height="100px" width="200px">
       <img src="https://d500.epimg.net/cincodias/imagenes/2015/08/24/lifestyle/1440420274_400517_1440420311_noticia_normal.jpg" height="80px" width="80px">
 <img src="https://images.immediate.co.uk/volatile/sites/3/2017/06/97418.jpg?quality=90&resize=620,413" height="80px" width="80px">
+ <img src="http://g-ec2.images-amazon.com/images/G/01/social/api-share/amazon_logo_500500._V323939215_.png" height="80px" width="80px">
    </div>
    
   <div class="contenedor2">
