@@ -46,7 +46,7 @@
 <img src="https://images.immediate.co.uk/volatile/sites/3/2017/06/97418.jpg?quality=90&resize=620,413" height="80px" width="80px">
  <img src="http://g-ec2.images-amazon.com/images/G/01/social/api-share/amazon_logo_500500._V323939215_.png" height="80px" width="80px">
  <img src="https://www.efe.com.pe/wcsstore/efe_cat_as/Attachment/ficha_producto/Refrigeradoras/LG/marca%20-%20copia.jpg" height="80px" width="80px">
-   
+   </div>
    
   <div class="contenedor2">
   <img src="https://static.wixstatic.com/media/b6812f_1e68766f2ff44bae9f3df342675f6204~mv2.png" height="80px" width="80px"> 
