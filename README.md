@@ -49,7 +49,7 @@
   <div class="contenedor2">
   <img src="https://static.wixstatic.com/media/b6812f_1e68766f2ff44bae9f3df342675f6204~mv2.png" height="80px" width="80px"> 
   <img src="https://www.facebook.com/images/fb_icon_325x325.png" height="80px" width="80px"> 
-  <img src="https://cdn.images.express.co.uk/img/dynamic/59/590x/Gmail-Hotmail-and-Yahoo-How-to-set-up-a-FREE-email-account-Are-all-emails-free-1003636.jpg?r=1534326633778" height="250px" width="280px">
+  <img src="https://cdn.images.express.co.uk/img/dynamic/59/590x/Gmail-Hotmail-and-Yahoo-How-to-set-up-a-FREE-email-account-Are-all-emails-free-1003636.jpg?r=1534326633778" height="230px" width="280px">
    </div>
   
     <div class="contenedor3">
