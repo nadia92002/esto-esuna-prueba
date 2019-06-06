@@ -41,12 +41,17 @@
     <center><a id="foll" href="">MENU</a></center>
    </nav>
 </header>
+                 <br>
     <center><li><a href="/home/pc26/4A/paginasweb/JS/index.Animacion.html">Animaciones</a></li></center>
     <center><li><a href="/home/pc26/4A/paginasweb/proyectos/index.posicionamiento">posicionamiento</a></li></center>
     <center><li><a href="/home/pc26/4A/paginasweb/proyectos/index.html">JS</a></li></center>
-<br>
 </br>
     <center><font color="blue"><input type="button" value="BIENVENIDO"></center>
+      <center><form>
+    <input type="button" value="Blue" onClick="sfondo('blue')">
+    <input type="button" value="Pink" onClick="sfondo('pink')">
+    <input type="button" value="Yellow" onClick="sfondo('yellow')">
+</form>
 </div>
 
        <div class="contenedor2">
@@ -67,16 +72,12 @@
 <br>Password:
 <input type="password">
 <a href="/home/pc26/4A/paginasweb/JS">registrar</a>
-
+  </div>
 <body>
 <script>
 alert("dame tu edad");
 n1=prompt("");
 alert("tu edad es" + n1);
 </script>
-  <center><form>
-    <input type="button" value="Blue" onClick="sfondo('blue')">
-    <input type="button" value="Pink" onClick="sfondo('pink')">
-    <input type="button" value="Yellow" onClick="sfondo('yellow')">
-</form>
-
+  </body>
+  </html>
