@@ -7,8 +7,8 @@
         text-aling: center;
         background: Aqua; 
         border:2px solid black;
-        height: 300px;
-        width: 250px;
+        height: 500px;
+        width: 500px;
         float: left;
 
       }
@@ -17,7 +17,7 @@
         background: Aqua;
         border:2px solid black;
         height: 300px;
-        width: 250px;
+        width: 300px;
         float: right;
 }
 .contenedor3{
@@ -25,7 +25,7 @@
         background: Aqua;
         border:2px solid black;
         height: 300px;
-        width: 250px;
+        width: 300px;
         float: right;
 }
 
