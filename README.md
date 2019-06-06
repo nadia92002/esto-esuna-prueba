@@ -68,12 +68,15 @@
 <input type="password">
 <a href="/home/pc26/4A/paginasweb/JS">registrar</a>
 
-</body>
-
+<body>
 <script>
 alert("dame tu edad");
 n1=prompt("");
 alert("tu edad es" + n1);
 </script>
+  <center><form>
+    <input type="button" value="Blue" onClick="sfondo('Blue')">
+    <input type="button" value="Pink" onClick="sfondo('Pink')">
+    <input type="button" value="Yellow" onClick="sfondo('Yellow')">
+</form>
 </body>
-</html>
