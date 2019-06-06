@@ -17,7 +17,7 @@
         background: Aqua;
         border:2px solid black;
         height: 300px;
-        width: 700px;
+        width: 300px;
         float: right;
 }
 .contenedor3{
@@ -25,7 +25,7 @@
         background: Aqua;
         border:2px solid black;
         height: 300px;
-        width: 700px;
+        width: 300px;
         float: right;
 }
 
