@@ -17,16 +17,16 @@
         text-aling: center;
         background: Aqua;
         border:2px solid black;
-        height: 250px;
-        width: 250px;
+        height: 200px;
+        width: 200px;
         float: right;
 }
 .contenedor3{
         text-aling: center;
         background: Aqua;
         border:2px solid black;
-        height: 250px;
-        width: 250px;
+        height: 200px;
+        width: 200px;
         float: right;
 }
 
@@ -75,8 +75,8 @@ n1=prompt("");
 alert("tu edad es" + n1);
 </script>
   <center><form>
-    <input type="button" value="Blue" onClick="sfondo('Blue')">
-    <input type="button" value="Pink" onClick="sfondo('Pink')">
-    <input type="button" value="Yellow" onClick="sfondo('Yellow')">
+    <input type="button" value="Blue" onClick="sfondo('blue')">
+    <input type="button" value="Pink" onClick="sfondo('pink')">
+    <input type="button" value="Yellow" onClick="sfondo('yellow')">
 </form>
-</body>
+
