@@ -7,8 +7,8 @@
         text-aling: center;
         background: Aqua; 
         border:2px solid black;
-        height: 500px;
-        width: 500px;
+        height: 300px;
+        width: 250px;
         float: left;
 
       }
@@ -16,16 +16,16 @@
         text-aling: center;
         background: Aqua;
         border:2px solid black;
-        height: 200px;
-        width: 200px;
+        height: 300px;
+        width: 250px;
         float: right;
 }
 .contenedor3{
         text-aling: center;
         background: Aqua;
         border:2px solid black;
-        height: 200px;
-        width: 200px;
+        height: 300px;
+        width: 250px;
         float: right;
 }
 
@@ -45,8 +45,8 @@
     <center><li><a href="/home/pc26/4A/paginasweb/proyectos/index.posicionamiento">posicionamiento</a></li></center>
     <center><li><a href="/home/pc26/4A/paginasweb/proyectos/index.html">JS</a></li></center>
 
-    <center><font color="blue"><input type="button" value="BIENVENIDO">
-      <center><form>
+    <center><font color="blue"><input type="button" value="BIENVENIDO"></center>
+    <form>
     <input type="button" value="Blue" onClick="sfondo('blue')">
     <input type="button" value="Pink" onClick="sfondo('pink')">
     <input type="button" value="Yellow" onClick="sfondo('yellow')">
