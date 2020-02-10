@@ -7,8 +7,8 @@
         text-aling: center;
         background: Aqua; 
         border:2px solid black;
-        height: 4000px;
-        width: 4000px;
+        height: 1000px;
+        width: 1000px;
         float: left;
 
       }
