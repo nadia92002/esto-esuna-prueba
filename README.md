@@ -71,11 +71,5 @@
 <input type="password">
 <a href="/home/pc26/4A/paginasweb/JS">registrar</a>
   
-<body>
-<script>
-alert("dame tu edad");
-n1=prompt("");
-alert("tu edad es" + n1);
-</script>
-  </body>
-  
+</div>
+</html>
