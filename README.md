@@ -41,17 +41,6 @@
    </nav>
 </header>
                  
-    <center><li><a href="/home/pc26/4A/paginasweb/JS/index.Animacion.html">Animaciones</a></li></center>
-    <center><li><a href="/home/pc26/4A/paginasweb/proyectos/index.posicionamiento">posicionamiento</a></li></center>
-    <center><li><a href="/home/pc26/4A/paginasweb/proyectos/index.html">JS</a></li></center>
-
-    <center><font color="blue"><input type="button" value="BIENVENIDO"></center>
-    <form>
-    <input type="button" value="Blue" onClick="sfondo('blue')">
-    <input type="button" value="Pink" onClick="sfondo('pink')">
-    <input type="button" value="Yellow" onClick="sfondo('yellow')">
-</form>
-
        <div class="contenedor2">
       <h5><font color="black">identificate
       E-mail:
