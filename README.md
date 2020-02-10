@@ -35,7 +35,7 @@
 <body>
               <div class="contenedor">
                <center><h1><font color="blue">Cursos</h1></center>
-                 <img src="C:\Users\Nadia\Pictures.cursos.png" width="50" height="50">
+                 <img src="https://www.fbvcursos.com/uploads/images/2017/11/4-fbv-cursosonline-1510248056.png" width="100" height="100">
 <header>
    <nav>
     <center><a id="foll" href="">MENU</a></center>
