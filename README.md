@@ -7,8 +7,8 @@
         text-aling: center;
         background: Aqua; 
         border:2px solid black;
-        height: 1000px;
-        width: 1000px;
+        height: 4000px;
+        width: 4000px;
         float: left;
 
       }
@@ -34,7 +34,8 @@
 </head>
 <body>
               <div class="contenedor">
-               <center><h1><font color="blue">LO QUE APRENDI</h1></center>
+               <center><h1><font color="blue">Cursos</h1></center>
+                 <img src="cursos.png">
 <header>
    <nav>
     <center><a id="foll" href="">MENU</a></center>
