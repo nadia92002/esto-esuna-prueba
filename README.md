@@ -35,7 +35,7 @@
 <body>
               <div class="contenedor">
                <center><h1><font color="blue">Cursos</h1></center>
-                 <img src="cursos.png" width="50" height="50">
+                 <img src="C:\Users\Nadia\Pictures.cursos.png" width="50" height="50">
 <header>
    <nav>
     <center><a id="foll" href="">MENU</a></center>
