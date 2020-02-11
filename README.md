@@ -36,6 +36,7 @@
               <div class="contenedor">
                <center><h1><font color="blue">Cursos</h1></center>
                  <img src="https://www.fbvcursos.com/uploads/images/2017/11/4-fbv-cursosonline-1510248056.png" width="100" height="100">
+                 <a href="/home/pc26/4A/paginasweb/proyectos">entrar</a>
 <header>
    <nav>
     <center><a id="foll" href="">MENU</a></center>
@@ -43,12 +44,7 @@
 </header>
                  
        <div class="contenedor2">
-      <h5><font color="black">identificate
-      E-mail:
-      <input type="text">
-      <br>password:
-      <input type="password">
-      <a href="/home/pc26/4A/paginasweb/proyectos">entrar</a>
+      
   </div>
 
 <div class="contenedor3">
