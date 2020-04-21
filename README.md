@@ -1,36 +1,29 @@
-<?php
-$cantidad=array(4,5,1,3,2);
-$i=0;
-$menor=$cantidad[$i];
-$mayor=$cantidad[$i];
-while($i<=4)
-{
-	if($menor>$cantidad[$i])
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Numero Mayor condicional</title>
+</head>
+<body>
+<center>
+<script type="text/javascript">
+	var numero01;
+	var numero02;
+
+	numero01=parseInt(prompt("Ingrese el numero 1",""));
+	numero02=parseInt(prompt("Ingrese el numero 2",""));
+
+	if(numero01 >= numero02)
 	{
-	 $menor=$cantidad[$i];
+        //imprime numero mayor
+	document.write("El numero mayor es: " + numero01 + " ( Numero 1 )");
 	}
-	$i=$i+1;
-}
-echo"$menor <br />";
-$cantidad=array(4,5,1,3,2);
-$i=0;
-$mayor=$cantidad[$i];
-while($i<=4)
-{
-	if($mayor<$cantidad[$i])
+	else
 	{
-	 $mayor=$cantidad[$i];
+       //imprime numero mayor
+	document.write("El Numero mayor es : " + numero02 + " ( Numero 2 )");
 	}
-	 $i=$i+1;
-}
-echo"$mayor <br />";
-$cantidad=array(4,5,1,3,2);
-$menor=$menor;
-$i=0;
-while($i<4){
-	if($menor>=$cantidad[$i]){
-	$menor=$cantidad[$i];
-	}
-	echo"$menor <br />";
-	}
-?>
+	</script>
+
+</center>
+</body>
+</html>
