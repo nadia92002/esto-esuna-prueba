@@ -1,43 +1,22 @@
+!DOCTYPE html>
 <html>
 <head>
-	<title>Numero Mayor condicional</title>
+	<title>Numero Mayor de un arreglo</title>
+
+<script type="text/javascript">
+var arreglo  = [5,10,25,58,12];
+    maximo = 0;
+
+for(var i=0,len=arreglo .length;i<len;i++){
+    if(maximo < arreglo [i]){
+        maximo = arreglo [i];
+    }
+}
+document.write(maximo);
+</script>
 </head>
 <body>
-<center>
-<script type="text/javascript">
-	var numero01;
-	var numero02;
-	var numero03;
-	var numero04;
 
-	numero01=parseInt(prompt("Ingrese el numero 1",""));
-	numero02=parseInt(prompt("Ingrese el numero 2",""));
-	numero03=parseInt(prompt("Ingrese el numero 3",""));
-	numero04=parseInt(prompt("Ingrese el numero 4",""));
-
-	if(numero01 >= numero04)
-	{
-        //imprime numero mayor
-	document.write("El numero mayor es: " + numero01 + " ( Numero 1 )");
-	}
-	else
-	{
-       //imprime numero mayor
-	document.write("El Numero mayor es : " + numero02 + " ( Numero 2 )");
-	}
-	else
-	{
-	//imprime numero mayor
-	document.write("El Numero mayor es : " + numero03 + " ( Numero 3 )");
-	}
-	else
-	{
-	//imprime numero mayor
-	document.write("El Numero mayor es : " + numero04 + " ( Numero 4 )");
-	}
-	</script>
-
-</center>
 </body>
 </html>
 
