@@ -24,6 +24,16 @@
        //imprime numero mayor
 	document.write("El Numero mayor es : " + numero02 + " ( Numero 2 )");
 	}
+	else
+	{
+	//imprime numero mayor
+	document.write("El Numero mayor es : " + numero02 + " ( Numero 3 )");
+	}
+	else
+	{
+	//imprime numero mayor
+	document.write("El Numero mayor es : " + numero02 + " ( Numero 4 )");
+	
 	</script>
 
 </center>
