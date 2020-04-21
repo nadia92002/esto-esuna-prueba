@@ -8,6 +8,8 @@
 <script type="text/javascript">
 	var numero01;
 	var numero02;
+	var numero03;
+	var numero04;
 
 	numero01=parseInt(prompt("Ingrese el numero 1",""));
 	numero02=parseInt(prompt("Ingrese el numero 2",""));
