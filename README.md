@@ -1,46 +1,29 @@
+<!DOCTYPE html>
 <html>
-	<head>
-	</head>
-	<body>
-	<script language="javascript">
+<head>
+	<title>Numero Mayor condicional</title>
+</head>
+<body>
+<center>
+<script type="text/javascript">
+	var numero01;
+	var numero02;
 
-	var n1=prompt("ingrese nu1","");
-	var n2=prompt("ingrese nu2","");
-	var n3=prompt("ingrese nu3","");
+	numero01=parseInt(prompt("Ingrese el numero 1",""));
+	numero02=parseInt(prompt("Ingrese el numero 2",""));
 
-	n1=parseInt(n1);
-	n2=parseInt(n2);
-	n3=parseInt(n3);
-
-	if(n1>=n2)
+	if(numero01 >= numero02)
 	{
-		
-		if(n1>=n3)
-		{
-		document.write(n1);
-		}
-
-		
+        //imprime numero mayor
+	document.write("El numero mayor es: " + numero01 + " ( Numero 1 )");
 	}
-	if(n2>=n1)
+	else
 	{
-		if(n2>=n3)
-		{
-		document.write(n2);
-		}
-
-
+       //imprime numero mayor
+	document.write("El Numero mayor es : " + numero02 + " ( Numero 2 )");
 	}
-	if(n3>=n1)
-	{
-		if(n3>=n2)
-		{
-		document.write(n3);
-		}
+	</script>
 
-	
-	}
-		</script>
-		</body>
-	
+</center>
+</body>
 </html>
