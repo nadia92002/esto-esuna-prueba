@@ -8,11 +8,13 @@
 <script type="text/javascript">
 	var numero01;
 	var numero02;
+	var numero03;
+	var numero04;
 
 	numero01=parseInt(prompt("Ingrese el numero 1",""));
 	numero02=parseInt(prompt("Ingrese el numero 2",""));
-	numero01=parseInt(prompt("Ingrese el numero 3",""));
-	numero02=parseInt(prompt("Ingrese el numero 4",""));
+	numero03=parseInt(prompt("Ingrese el numero 3",""));
+	numero04=parseInt(prompt("Ingrese el numero 4",""));
 
 	if(numero01 >= numero04)
 	{
