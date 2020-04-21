@@ -11,6 +11,8 @@
 
 	numero01=parseInt(prompt("Ingrese el numero 1",""));
 	numero02=parseInt(prompt("Ingrese el numero 2",""));
+	numero03=parseInt(prompt("Ingrese el numero 3",""));
+	numero04=parseInt(prompt("Ingrese el numero 4",""));
 
 	if(numero01 >= numero02)
 	{
@@ -21,6 +23,16 @@
 	{
        //imprime numero mayor
 	document.write("El Numero mayor es : " + numero02 + " ( Numero 2 )");
+	}
+	else
+	{
+	  //imprime numero mayor
+	document.write("El Numero mayor es : " + numero03 + " ( Numero 3 )");
+	}
+	else
+	{
+	  //imprime numero mayor
+	document.write("El Numero mayor es : " + numero04 + " ( Numero 4 )");
 	}
 	</script>
 
