@@ -34,9 +34,6 @@
 	//imprime numero mayor
 	document.write("El Numero mayor es : " + numero02 + " ( Numero 4 )");
 	}
-	else
-	{
-	//imprime numero mayor
 	</script>
 
 </center>
