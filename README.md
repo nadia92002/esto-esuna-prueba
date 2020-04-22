@@ -8,7 +8,7 @@
 
 <body>
 
-<form name="myform" action="file:///D:/galeria.html" method="POST">
+<form name="myform" action="D:/galeria.html" method="POST">
 
 <input type="submit" value="este es un boton">
 
