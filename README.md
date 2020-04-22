@@ -42,7 +42,7 @@
 
 #cuadro_izquierda{
  
-   background-color: Blue;
+   background-color: AQUAMARINE;
    
    border: 1px solid black;
     float: left;
@@ -56,7 +56,27 @@
   margin-top: 130px;
 
 }
- 
+ #cuadro_centro {
+    background-color: AQUAMARINE;
+    border: 1px solid red;
+    height: 300px;
+    text-align: center;
+    width: 300px;
+    float: left;
+    margin-right: 20px;
+    margin-top: 130px;
+}
+
+#cuadro_derecha {
+    background-color: AQUAMARINE;
+    border: 1px solid blue;
+    float: right;
+    height: 300px;
+    text-align: center;
+    width: 300px;
+    float: left;
+    margin-top: 130px;
+}
 </style>
 
 <body>
@@ -93,6 +113,14 @@
  <div id="cuadro_izquierda">
  
   </div>
+  
+<div id="cuadro_centro">
+		
+			</div>
+
+     			<div id="cuadro_derecha">
+		
+			</div>	
 
 
 </html>
