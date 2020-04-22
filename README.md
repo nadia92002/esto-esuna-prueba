@@ -99,7 +99,7 @@
  <div id="cuadro_izquierda">
   <div class="media-body">
      <h4 class="media-heading">Nadia Vazquez Noyola
-programacion 6°to<small><i>Posted on Abril 22, 2020</i></small></4>
+programacion 6°to<small><i>Posted on Abril 22, 2020</i></small></h4>
      <p>Disfruta el trabajo realizado.</p>
      </div>
 
