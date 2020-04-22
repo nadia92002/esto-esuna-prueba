@@ -1,29 +1,38 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Numero Mayor condicional</title>
-</head>
+<meta charset="utf-8">
+<tittle></tittle>
+
+<style>
+
+  
+.contenedor{
+
+        text-aling: center;
+
+        background-color: White;
+
+        height: 200px;
+        
+        width: 1000px;
+        
+        float: left;
+
+
+}
+ </style>
 <body>
-<center>
-<script type="text/javascript">
-	var numero01;
-	var numero02;
+<div class="contenedor">
 
-	numero01=parseInt(prompt("Ingrese el numero 1",""));
-	numero02=parseInt(prompt("Ingrese el numero 2",""));
 
-	if(numero01 >= numero02)
-	{
-        //imprime numero mayor
-	document.write("El numero mayor es: " + numero01 + " ( Numero 1 )");
-	}
-	else
-	{
-       //imprime numero mayor
-	document.write("El Numero mayor es : " + numero02 + " ( Numero 2 )");
-	}
-	</script>
+<center><h1><font color="blue">Tarea</h1></center>
+             
+<img src="https://t2.pbb.ltmcdn.com/es/posts/5/9/3/nombres_de_nina_con_la_letra_n_4395_600.jpg" width="100" height="100">
+ 
+<form name="myform" action="file:///D:/referencias.html" method="POST">
 
-</center>
+<input type="submit" value="Referencias">
+</form>
 </body>
 </html>
