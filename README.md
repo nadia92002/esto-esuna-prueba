@@ -16,7 +16,7 @@
         text-aling: center;
 
 
-        background-color: Aqua;
+        background-color: MISTYROSE;
 
 
         height: 200px;
