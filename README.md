@@ -105,7 +105,7 @@ programacion 6°to<small><i>Posted on Abril 22, 2020</i></small></4>
 
         <div class="media-right">
         <a href="#">
-          <img src="avatar.gif" class="media-object img-circle" alt="Sample Image">
+          <img src="https://lh3.googleusercontent.com/proxy/1gNMg3SBL44fZegHR6PCqvk_L5lA99wf4AYZXPHAcVrzHDJJ60fnMngN5qn_bKsV9PVN6FCs5lZeE-H1oY9wAof1K2Ub95KIaqM6yP1Usyea4sFepS3aRgM-PbxF7Yo" class="media-object img-circle" alt="Sample Image">
           </a>
           </div>
            </div>
