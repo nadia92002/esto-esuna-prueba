@@ -30,6 +30,15 @@
 
 
 }
+   .contenedor2{
+
+        text-aling: center;
+        background: Pink;
+
+        height: 800px;
+        
+        width: 1000px;
+}
 
 #cuadro_izquierda{
  
@@ -60,8 +69,6 @@
 
 <BODY bgcolor="white">
 
- 
-<input type="button" value="Botón" name="B4" OnClick="location.href=´mipagina1.asp´ ">
 <SCRIPT LANGUAGE="JavaScript">
 
     function sfondo(colore) {document.bgColor = colore;}
@@ -75,13 +82,15 @@
 </FORM>
 
 </div>
-             
-        
+         </body>
+         
+        <div class="contenedor2">
+
+<div id="contenido">
  <div id="cuadro_izquierda">
  
   </div>
- 
-</body>
+
 
 </html>
 
