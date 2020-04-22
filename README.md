@@ -86,7 +86,7 @@
         
 <img src="https://37l6no3yibdh3i9pro2isljk-wpengine.netdna-ssl.com/wp-content/uploads/2017/09/oie_30144137iJGmGE90.gif" width="100" height="100">
 <a href="obtenernumeromayor.html">numeromayor</a>
-<a href="referencias.html">numeromayor</a>
+<a href="referencias.html">referencias</a>
 
 
 
