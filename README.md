@@ -65,6 +65,11 @@
   
 <a href="obtenernumeromayor.html">AquiClic</a>
 
+<form name="myform" action="obtenernumeromayor.html" method="POST">
+
+<input type="submit" value="este es un boton">
+
+</form>
 
   </div>
  
