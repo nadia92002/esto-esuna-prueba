@@ -41,7 +41,7 @@
 	 <a href="file:///D:/catalogodebloqueadores.html">Catalogo</a>
 <form name="myform" action="file:///D:/obtenernumeromayor.html">
 
-<input type="submit" value="clic">
+<input type="submit" value="numeromayor">
 
 </form>
 
