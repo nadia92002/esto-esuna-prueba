@@ -63,7 +63,7 @@
         
  <div id="cuadro_izquierda">
 
-<a href="https://file:///D:/obtenernumeromayor.html">Estamos en Facebook</a>
+<a href="https://D:/obtenernumeromayor.html">Estamos en Facebook</a>
 
 <input type="submit" value="numeromayor">
 
