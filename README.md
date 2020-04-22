@@ -16,7 +16,7 @@
         text-aling: center;
 
 
-        background-color: AZURE;
+        background-color: Black;
 
 
         height: 200px;
@@ -33,7 +33,7 @@
    .contenedor2{
 
         text-aling: center;
-        background: Yellow;
+        background: AZURE;
 
         height: 800px;
         
@@ -42,7 +42,7 @@
 
 #cuadro_izquierda{
  
-   background-color: Pink;
+   background-color: Blue;
    
    border: 1px solid black;
     float: left;
