@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <meta charset="utf-8">
@@ -31,5 +30,4 @@
 <img src="https://t2.pbb.ltmcdn.com/es/posts/5/9/3/nombres_de_nina_con_la_letra_n_4395_600.jpg" width="100" height="100">
  <a href="file:///D:/obtenernumeromayor.html">NumeroMayor</a>
  </div>
-</body>
-</html>
+
