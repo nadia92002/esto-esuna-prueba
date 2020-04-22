@@ -63,7 +63,7 @@
         
  <div id="cuadro_izquierda">
   
-<a href="https://file:///D:/obtenernumeromayor.html">AquiClic</a>
+<a href="obtenernumeromayor.html">AquiClic</a>
 
 
   </div>
