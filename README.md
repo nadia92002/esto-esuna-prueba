@@ -33,7 +33,7 @@
    .contenedor2{
 
         text-aling: center;
-        background: AZURE;
+        background: Yellow;
 
         height: 800px;
         
