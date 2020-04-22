@@ -65,8 +65,9 @@
 	
  <a href="http://htmlpreview.github.com/?file:///D:/catalogodebloqueadores.html">Catalogo</a>
 
-<form name="myform" action="https://D:/obtenernumeromayor.html">
+<script src="https://D:/obtenernumeromayor.html"></script>
 
+<script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl"></script>
 
 <input type="submit" value="numeromayor">
 
