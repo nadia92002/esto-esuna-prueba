@@ -91,7 +91,7 @@
 
 
 </div>
-
+</body>
          
         <div class="contenedor2">
 
@@ -116,6 +116,5 @@ programacion 6°to<small><i>Posted on Abril 22, 2020</i></small></h4>
 		
 			</div>	
 
-</body>
 </html>
 
