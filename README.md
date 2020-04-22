@@ -94,8 +94,7 @@
 
 <div id="contenido">
  <div id="cuadro_izquierda">
-  <div class="media-body">
-     <h4 class="media-heading">Nadia Vazquez Noyola
+     <h4>Nadia Vazquez Noyola
 programacion 6°to<small><i>Posted on Abril 22, 2020</i></small></h4>
      <p>Disfruta el trabajo realizado.</p>
           <img src="https://lh3.googleusercontent.com/proxy/1gNMg3SBL44fZegHR6PCqvk_L5lA99wf4AYZXPHAcVrzHDJJ60fnMngN5qn_bKsV9PVN6FCs5lZeE-H1oY9wAof1K2Ub95KIaqM6yP1Usyea4sFepS3aRgM-PbxF7Yo" width="100" height="100">
