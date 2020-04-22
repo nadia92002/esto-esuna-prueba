@@ -91,14 +91,26 @@
 
 
 </div>
-         </body>
 
          
         <div class="contenedor2">
 
 <div id="contenido">
  <div id="cuadro_izquierda">
- 
+  <div class="media-body">
+     <h4 class="media-heading">Nadia Vazquez Noyola
+programacion 6°to<small><i>Posted on Abril 22, 2020</i></small></4>
+     <p>Disfruta el trabajo realizado.</p>
+     </div>
+
+        <div class="media-right">
+        <a href="#">
+          <img src="avatar.gif" class="media-object img-circle" alt="Sample Image">
+          </a>
+          </div>
+           </div>
+         <script src="bootstrap/js/jquery.js"></script>
+         <script src="bootstrap/js/bootstrap.js"></script> 
   </div>
   
 <div id="cuadro_centro">
@@ -109,6 +121,6 @@
 		
 			</div>	
 
-
+</body>
 </html>
 
