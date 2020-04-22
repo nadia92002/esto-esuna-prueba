@@ -26,13 +26,9 @@
 <div class="contenedor">
 
 
-<center><h1><font color="blue">Tarea</h1></center>
+<center><h1><font color="blue">Tareas
              
 <img src="https://t2.pbb.ltmcdn.com/es/posts/5/9/3/nombres_de_nina_con_la_letra_n_4395_600.jpg" width="100" height="100">
  
-<form name="myform" action="file:///D:/referencias.html" method="POST">
-
-<input type="submit" value="Referencias">
-</form>
 </body>
 </html>
