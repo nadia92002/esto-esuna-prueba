@@ -16,7 +16,7 @@
         text-aling: center;
 
 
-        background-color: MISTYROSE;
+        background-color: AZURE;
 
 
         height: 200px;
@@ -33,7 +33,7 @@
    .contenedor2{
 
         text-aling: center;
-        background: Pink;
+        background: Yellow;
 
         height: 800px;
         
