@@ -62,10 +62,8 @@
              
         
  <div id="cuadro_izquierda">
-
-<a href="obtenernumeromayor.html">Estamos en Facebook</a>
-
-<input type="submit" value="numeromayor">
+  
+<a href="file:///D:/obtenernumeromayor.html." target="_blank">Clic aquí</a>
 
   </div>
  
