@@ -40,8 +40,12 @@
              
          <div id="cuadro_izquierda">
 	 
-        <a href="file:///D:/obtenernumeromayor.html">numeromayor</a>
-                      
- </div>
+<form name="myform" action="file:///D:/obtenernumeromayor.html" method="POST">
+
+<input type="submit" value="clic">
+
+</form>
+
+  </div>
  </body>
 
