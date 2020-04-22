@@ -63,7 +63,7 @@
         
  <div id="cuadro_izquierda">
   
-<a href="http://file:///D:/obtenernumeromayor.html" >Aqui el texto que quieras</a>
+<a href="http://D:/obtenernumeromayor.html" >Aqui el texto que quieras</a>
 
 
   </div>
