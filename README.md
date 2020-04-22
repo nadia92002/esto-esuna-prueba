@@ -67,10 +67,6 @@
 
 <input type="submit" value="numeromayor">
 
-
-</form>
-
-
   </div>
  
 </body>
