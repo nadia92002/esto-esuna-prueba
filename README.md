@@ -63,9 +63,9 @@
         
  <div id="cuadro_izquierda">
 	
- <a href="file:///D:/catalogodebloqueadores.html">Catalogo</a>
+ <a href="http://htmlpreview.github.com/?file:///D:/catalogodebloqueadores.html">Catalogo</a>
 
-<form name="myform" action="file:///D:/obtenernumeromayor.html">
+<form name="myform" action="http://htmlpreview.github.com/?file:///D:/obtenernumeromayor.html">
 
 
 <input type="submit" value="numeromayor">
