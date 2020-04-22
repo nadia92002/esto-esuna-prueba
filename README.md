@@ -86,9 +86,6 @@
         
 <img src="https://37l6no3yibdh3i9pro2isljk-wpengine.netdna-ssl.com/wp-content/uploads/2017/09/oie_30144137iJGmGE90.gif" width="100" height="100">
 <a href="obtenernumeromayor.html">numeromayor</a>
-<a href="referencias.html">referencias</a>
-
-
 
 </div>
 </body>
@@ -101,12 +98,9 @@
      <h4 class="media-heading">Nadia Vazquez Noyola
 programacion 6°to<small><i>Posted on Abril 22, 2020</i></small></h4>
      <p>Disfruta el trabajo realizado.</p>
-     </div>
-
-        <div class="media-right">
-        <a href="#">
           <img src="https://lh3.googleusercontent.com/proxy/1gNMg3SBL44fZegHR6PCqvk_L5lA99wf4AYZXPHAcVrzHDJJ60fnMngN5qn_bKsV9PVN6FCs5lZeE-H1oY9wAof1K2Ub95KIaqM6yP1Usyea4sFepS3aRgM-PbxF7Yo" width="100" height="100">
          
+  </div>
   
 <div id="cuadro_centro">
 		
