@@ -16,7 +16,7 @@
         text-aling: center;
 
 
-        background-color: Black;
+        background-color: AZURE;
 
 
         height: 200px;
@@ -64,7 +64,7 @@
 <div class="contenedor">
      
         
-<img src="https://lh3.googleusercontent.com/proxy/NvCGAp2cKcGEyTM5tp46jzPKvo3LInX0DQj7RRZZ1oV0IysRnkfE9jCLEr5V0-Ca6fAwQ1Rg3yp8zgbCaokoapyRkPVwKQoP7H3dQGL25oRQbyZUADsW6Rw_916TmWniow" width="500" height="80">
+<img src="https://37l6no3yibdh3i9pro2isljk-wpengine.netdna-ssl.com/wp-content/uploads/2017/09/oie_30144137iJGmGE90.gif" width="100" height="100">
 <a href="obtenernumeromayor.html">AquiClic</a>
 
 
