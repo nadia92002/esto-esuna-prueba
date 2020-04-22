@@ -33,7 +33,7 @@
 
 #cuadro_izquierda{
  
-   background-color: LIGHTSALMON;
+   background-color: Pink;
    
    border: 1px solid black;
     float: left;
