@@ -62,12 +62,8 @@
              
         
  <div id="cuadro_izquierda">
-	
- <a href="http://htmlpreview.github.com/?file:///D:/catalogodebloqueadores.html">Catalogo</a>
 
-<script src="https://D:/obtenernumeromayor.html"></script>
-
-<script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl"></script>
+<a href="https://file:///D:/obtenernumeromayor.html">Estamos en Facebook</a>
 
 <input type="submit" value="numeromayor">
 
