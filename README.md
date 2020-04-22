@@ -2,7 +2,7 @@
 <head>
 <meta charset="utf-8">
 <tittle>Tarea</tittle>
-
+</head>
 <style>
 
   
