@@ -67,22 +67,25 @@
 <img src="https://lh3.googleusercontent.com/proxy/NvCGAp2cKcGEyTM5tp46jzPKvo3LInX0DQj7RRZZ1oV0IysRnkfE9jCLEr5V0-Ca6fAwQ1Rg3yp8zgbCaokoapyRkPVwKQoP7H3dQGL25oRQbyZUADsW6Rw_916TmWniow" width="500" height="80">
 <a href="obtenernumeromayor.html">AquiClic</a>
 
-<BODY bgcolor="white">
 
-<SCRIPT LANGUAGE="JavaScript">
+</div>
+         </body>
+         <BODY bgcolor="white">
+
+         <SCRIPT LANGUAGE="JavaScript">
 
     function sfondo(colore) {document.bgColor = colore;}
 
 
 </script>
  <FORM>
-<INPUT TYPE="button" VALUE="Pink" onClick="sfondo('PLUM')">
+<INPUT TYPE="button" style="border: 1px solid white"; style="background: white;" VALUE="Morado" onClick="sfondo('PLUM')">
 
-<INPUT TYPE="button" VALUE="Blue" onClick="sfondo('MEDIUMSPRINGGREEN')">
-</FORM>
+<INPUT TYPE="button" style="border: 1px solid white"; style="background: white;" VALUE="Verde" onClick="sfondo('MEDIUMSPRINGGREEN')">
+</FORM> 
 
-</div>
-         </body>
+</body>
+
          
         <div class="contenedor2">
 
