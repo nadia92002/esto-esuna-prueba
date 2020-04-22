@@ -65,7 +65,7 @@
 	
  <a href="http://htmlpreview.github.com/?file:///D:/catalogodebloqueadores.html">Catalogo</a>
 
-<form name="myform" action="D:/obtenernumeromayor.html">
+<form name="myform" action="D:\obtenernumeromayor.html">
 
 
 <input type="submit" value="numeromayor">
