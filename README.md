@@ -92,21 +92,6 @@
 
 </div>
          </body>
-         <BODY bgcolor="white">
-
-         <SCRIPT LANGUAGE="JavaScript">
-
-    function sfondo(colore) {document.bgColor = colore;}
-
-
-</script>
- <FORM>
-<INPUT TYPE="button" style="border: 1px solid white"; style="background: white;" VALUE="Morado" onClick="sfondo('PLUM')">
-
-<INPUT TYPE="button" style="border: 1px solid white"; style="background: white;" VALUE="Verde" onClick="sfondo('MEDIUMSPRINGGREEN')">
-</FORM> 
-
-</body>
 
          
         <div class="contenedor2">
