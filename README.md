@@ -40,7 +40,7 @@
              
          <div id="cuadro_izquierda">
 	 
-<form name="myform" action="file:///D:/obtenernumeromayor.html" method="POST">
+<form name="myform" action="file:///D:/obtenernumeromayor.html">
 
 <input type="submit" value="clic">
 
