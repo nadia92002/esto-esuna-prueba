@@ -33,7 +33,7 @@
    .contenedor2{
 
         text-aling: center;
-        background: Yellow;
+        background: LAVENDER;
 
         height: 800px;
         
@@ -94,7 +94,8 @@
 
 <div id="contenido">
  <div id="cuadro_izquierda">
-
+<h1>Nadia Vazquez Noyola</h1>
+	 <img src="https://lh3.googleusercontent.com/proxy/GAwgA_FaVeU3wii_yjtAaCkXKbHW9lun24znuJ6k4NX93g8MmX4zX6v4yr54vM5HZygzN3pOmmUdicXiBdZlqnnTx2vWyGka_fINurTyop9MwvXwx7yPMqMy5YQpI6A" width="100" height="100">
   </div>
   
 <div id="cuadro_centro">
