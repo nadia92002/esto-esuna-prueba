@@ -8,7 +8,7 @@
  
 <body>
     <button type="submit">
-  <img src="send.svg" alt="imagen" width="32" height="32" style="vertical-align: middle">
+  <img src="https://i0.pngocean.com/files/880/673/235/arrow-computer-icons-symbol-clip-art-send-email-button.jpg" alt="imagen" width="32" height="32" style="vertical-align: middle">
   Enviar
 </button>
     <div id="registrar">
