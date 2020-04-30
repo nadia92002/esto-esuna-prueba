@@ -7,6 +7,10 @@
 </head>
  
 <body>
+    <button type="submit">
+  <img src="send.svg" alt="imagen" width="32" height="32" style="vertical-align: middle">
+  Enviar
+</button>
     <div id="registrar">
             <a href="../index.php"</a>Regresar</a>
     </div>
