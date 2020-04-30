@@ -1,47 +1,25 @@
-<!DOCTYPE html PUBLIC “-//W3C//DTD XHTML 1.0 Transitional//EN” “http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd”&gt;
-<html xmlns=”http://www.w3.org/1999/xhtml”&gt;
+<!DOCTYPE html>
+<html>
 <head>
-<meta http-equiv=”Content-Type” content=”text/html; charset=utf-8″ />
-<title>Untitled Document</title>
-<style type=”text/css”>
-.titulo {
-font-weight: bold;
-text-align: center;
-font-family: Arial, Helvetica, sans-serif;
-color: #FFF;
+<body>
+<h1>DATOS CURIOSOS</h1>
+
+Cada persona tiene su aroma único, debido a las feromonas. Excepto los gemelos idénticos, que tienen exactamente el mismo olor.
+		La función de la saliva es envolver el alimento para que no raspe ni desgarre las paredes del estómago.
+¿Sabes qué es lo más curioso? A lo largo de la vida, una persona genera saliva suficiente como para llenar dos piletas de natación.
+Más allá de la fuerza espiritual, el corazón es un órgano sumamente poderoso. De hecho, la presión que genera al bombear sangre podría, si saliera del cuerpo, alcanzar los 10 metros de distancia.
+Para que te des una idea, la potencia generada al día por un corazón bastaría para mover un coche durante 32 kilómetros.
+
+
+
+    <title>Submenú en ventana a parte</title>
+<script language="JavaScript">
+function lanzarSubmenu(){
+   window.open("file:///D:/VENTANA.html","ventana1","width=400,height=400,scrollbars=YES")
 }
-.footer {
-text-align: right;
-color: #666;
-font-family: Arial, Helvetica, sans-serif;
-font-size: 12px;
-}
-</style>
+</script>
 </head>
-<body><table width=”650″ border=”1″>
-<tr>
-<td colspan=”2″ bgcolor=”#bb1f30″>Aprendices destacados 3ra semana</td>
-</tr>
-<tr>
-<td width=”220″><img src=”PEGUE EN ESTE LUGAR EL URL DE SU IMAGEN” width=”220″ height=”144″ /></td>
-<td width=”414″><p>&nbsp;</p>
-<p>Estimados aprendices, esta tercera semana quiero felicitar por su desempeño a:</p>
-<ul>
-<li>Sultanito Mendieta.</li>
-<li>Sultanito Mendieta.</li>
-<li>Sultanito Mendieta.</li>
-<li>Sultanito Mendieta.</li>
-<li>Sultanito Mendieta.</li>
-<li>Sultanito Mendieta.</li>
-<li>Sultanito Mendieta.</li>
-<li>Sultanito Mendieta.</li>
-</ul>
-<p>A los demás aprendices les envío un mensaje de ánimo, ya que aún pueden ponerse al día con las actividades para este curso.</p>
-<p>&nbsp;</p></td>
-</tr>
-<tr>
-<td colspan=”2″>Oportunidades de negocio 000000</td>
-</tr>
-</table>
+<input type="button" value="<---" onclick="lanzarSubmenu()">
+</form>
 </body>
 </html>
