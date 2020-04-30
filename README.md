@@ -1,44 +1,16 @@
 <!DOCTYPE html>
 <html>
-    <head>
-    </head>
-    <body>
-<form action="mailto:colabora@desarrolloweb.com" method="post" enctype="text/plain">
-Nombre <input type="text" name="nombre" size="30" maxlength="100">
-<br>
-Email <input type="text" name="email" size="25" maxlength="100" value="@">
-<br>
-Población <input type="text" name="poblacion" size="20" maxlength="60">
-<br>
-Sexo
-<br>
-<input type="radio" name="sexo" value="Varon" checked> Hombre
-<br>
-<input type="radio" name="sexo" value="Hembra"> Mujer
-<br>
-<br>
-Frecuencia de los viajes
-<br>
-<select name="utilizacion">
-	<option value="1">Varias veces al dia
-	<option value="2">Una vez al dia
-	<option value="3">Varias veces a la semana
-	<option value="4">varias veces al mes
-</select>
-<br>
-<br>
-Comentarios sobre su satisfacción personal
-<br>
-<textarea cols="30" rows="7" name="comentarios"></textarea>
-<br>
-<br>
-<input type="checkbox" name="recibir_info" checked> Deseo recibir notificación de las novedades en las líneas de autobuses.
-<br>
-<br>
-<input type="submit" value="Enviar formulario">
-<br>
-<br>
-<input type="Reset" value="Borrar todo">
-</form>
-    </body>
-    </html>
+	<head>
+	</head>
+	<body>
+		<h1>DATOS CURIOSOS</h1>
+Cada persona tiene su aroma único, debido a las feromonas. Excepto los gemelos idénticos, que tienen exactamente el mismo olor.
+		
+		La función de la saliva es envolver el alimento para que no raspe ni desgarre las paredes del estómago.
+¿Sabes qué es lo más curioso? A lo largo de la vida, una persona genera saliva suficiente como para llenar dos piletas de natación.
+
+Más allá de la fuerza espiritual, el corazón es un órgano sumamente poderoso. De hecho, la presión que genera al bombear sangre podría, si saliera del cuerpo, alcanzar los 10 metros de distancia.
+
+Para que te des una idea, la potencia generada al día por un corazón bastaría para mover un coche durante 32 kilómetros.
+	</body>
+	</html>
