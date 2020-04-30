@@ -20,6 +20,5 @@ function lanzarSubmenu(){
 }
 </script>
 <input type="button" value="<---" onclick="lanzarSubmenu()">
-</form>
 </body>
 </html>
