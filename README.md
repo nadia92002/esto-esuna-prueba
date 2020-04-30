@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-</head>
 <body>
 <h1>DATOS CURIOSOS</h1>
 
@@ -19,6 +18,8 @@ function lanzarSubmenu(){
    window.open("file:///D:/VENTANA.html","ventana1","width=400,height=400,scrollbars=YES")
 }
 </script>
+</head>
 <input type="button" value="<---" onclick="lanzarSubmenu()">
+</form>
 </body>
 </html>
