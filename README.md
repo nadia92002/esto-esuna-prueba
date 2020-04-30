@@ -1,58 +1,44 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Formulario</title>
-    <meta charset="utf-8">
-    <link type="text/css" href="./../css/style.css" rel="stylesheet" />
-</head>
- 
-<body>
-    <input type="text" name="texto">
-  <button type="submit">
-  <img src="https://i0.pngocean.com/files/880/673/235/arrow-computer-icons-symbol-clip-art-send-email-button.jpg" alt="imagen" width="32" height="32" style="vertical-align: middle">
-  Enviar
-</button>
-    <div id="registrar">
-            <a href="../index.php"</a>Regresar</a>
-    </div>
-    <div id="envoltura">
-        <div id="contenedor">
- 
-            <div id="cabecera">
-                <img src="./../css/images/logo.gif" >
-            </div>
- 
-            <div id="cuerpo">
- 
-                <form id="form-login" action="#" method="post" >
-                    <p><label for="nombre">Nombre:</label></p>
-                        <input name="nombre" type="text" id="nombre" class="nombre" placeholder="Pon tu nombre" autofocus=""/ ></p>
- 
-                    <!--=============================================================================================-->
-                    <!--La sisguientes 2 líneas son para agregar campos al formulario con sus respectivos labels-->
-                    <!--Puedes usar tantas como necesites-->
-                    <p><label for="apellidos">Apellidos:</label></p>
-                        <input name="apellidos" type="text" id="apellidos" class="apellidos" placeholder="Pon tus apellidos" /></p>
-                    <!--=============================================================================================-->
- 
-                    <p><label for="correo">Correo:</label></p>
-                        <input name="correo" type="text" id="correo" class="correo" placeholder="Pon tu mail" /></p>
- 
-                    <p><label for="pass">Password:</label></p>
-                        <input name="pass" type="password" id="pass" class="pass" placeholder="Pon tu contraseña"/ ></p>
- 
-                    <p><label for="repass">Repetir Password:</label></p>
-                        <input name="repass" type="password" id="repass" class="repass" placeholder="Repite contraseña" /></p>
- 
-                    <p id="bot"><input name="submit" type="submit" id="boton" value="Registrar" class="boton"/></p>
-                </form>
-            </div>
- 
-            <div id="pie">Sistema de Login Y Registro</div>
-        </div><!-- fin contenedor -->
- 
-    </div>
- 
-</body>
- 
-</html>
+    <head>
+    </head>
+    <body>
+<form action="mailto:colabora@desarrolloweb.com" method="post" enctype="text/plain">
+Nombre <input type="text" name="nombre" size="30" maxlength="100">
+<br>
+Email <input type="text" name="email" size="25" maxlength="100" value="@">
+<br>
+Población <input type="text" name="poblacion" size="20" maxlength="60">
+<br>
+Sexo
+<br>
+<input type="radio" name="sexo" value="Varon" checked> Hombre
+<br>
+<input type="radio" name="sexo" value="Hembra"> Mujer
+<br>
+<br>
+Frecuencia de los viajes
+<br>
+<select name="utilizacion">
+	<option value="1">Varias veces al dia
+	<option value="2">Una vez al dia
+	<option value="3">Varias veces a la semana
+	<option value="4">varias veces al mes
+</select>
+<br>
+<br>
+Comentarios sobre su satisfacción personal
+<br>
+<textarea cols="30" rows="7" name="comentarios"></textarea>
+<br>
+<br>
+<input type="checkbox" name="recibir_info" checked> Deseo recibir notificación de las novedades en las líneas de autobuses.
+<br>
+<br>
+<input type="submit" value="Enviar formulario">
+<br>
+<br>
+<input type="Reset" value="Borrar todo">
+</form>
+    </body>
+    </html>
