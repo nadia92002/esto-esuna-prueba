@@ -16,8 +16,6 @@ function lanzarSubmenu(){
    window.open("https://get.sendinblue.com/herramienta-de-email-marketing/?utm_source=adwords&utm_medium=cpc&utm_content=Email_Marketing&utm_extension=&utm_term=%2Bemail%20%2Bmarketing&utm_matchtype=b&utm_campaign=243056842&utm_network=g&km_adid=335225866758&km_adposition=&km_device=c&utm_adgroupid=62127759556&gclid=Cj0KCQjw7qn1BRDqARIsAKMbHDZWySYxIXjz9DsRUP49RKnFH6yPVXZTJwBBkSpMV6ng9LfGEe1pBbcaAkkvEALw_wcB","ventana1","width=400,height=400,scrollbars=YES")
 }
 </script>
-</head>
 <input type="button" value="<---" onclick="lanzarSubmenu()">
-</form>
 </body>
-</html>
+
