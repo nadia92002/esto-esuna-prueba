@@ -13,7 +13,7 @@ Para que te des una idea, la potencia generada al día por un corazón bastaría
     <title>Submenú en ventana a parte</title>
 <script language="JavaScript">
 function lanzarSubmenu(){
-   window.open("file:///D:/VENTANA.html","ventana1","width=400,height=400,scrollbars=YES")
+   window.open("https://acumbamail.com/envio-de-newsletter/?refered=43639&gclid=Cj0KCQjw7qn1BRDqARIsAKMbHDbeVXIPoZ7vH54R_8RyOvmm2XyhNTlmeP-0Zsx_lilMYFCJzjG8HxMaAp6vEALw_wcB","ventana1","width=400,height=400,scrollbars=YES")
 }
 </script>
 </head>
