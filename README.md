@@ -33,40 +33,34 @@
      <img src="https://media1.tenor.com/images/eb5be197a3f3d1d63bc1e0b3b8ef797a/tenor.gif?itemid=15026828" width="100" height="100">
                  </div>
                  
-<BODY bgcolor="white">
+                 <form>
 
- 
+<input type="button"
+value="Blanco"
+onClick="document.bgColor = '#FFFFFF';document.fgColor='#000000';">
 
-<SCRIPT LANGUAGE="JavaScript">
+<input type="button"
+value="Verde"
+onClick="document.bgColor = '#008000';document.fgColor='#FFFF00';">
+
+<input type="button"
+value="Azul"
+onClick="document.bgColor = '#0000FF';document.fgColor='#00FFFF';">
+
+<input type="button"
+value="Rojo"
+onClick="document.bgColor = '#FF0000';document.fgColor='#FFFF00';">
+
+<input type="button"
+value="Negro"
+onClick="document.bgColor = '#000000';document.fgColor='#FFFFFF';">
+
+<input type="button"
+value="Amarillo"
+onClick="document.bgColor = '#FFFF00';document.fgColor='#CD2626';">
 
 
-    function sfondo(colore) {document.bgColor = colore;}
-
-
-</script>
-
-
-
-<CENTER><FORM>
-
-
-<INPUT TYPE="button" VALUE="Rosso" onClick="sfondo('RED')">
-
-<INPUT TYPE="button" VALUE="Blue" onClick="sfondo('BLUE')">
-
-<INPUT TYPE="button" VALUE="Arancio" onClick="sfondo('ORANGE')">
-
-<INPUT TYPE="button" VALUE="Verde" onClick="sfondo('GREEN')">
-
-<INPUT TYPE="button" VALUE="Nero" onClick="sfondo('BLACK')">
-
-<INPUT TYPE="button" VALUE="Grigio" onClick="sfondo('GRAY')">
-
-<INPUT TYPE="button" VALUE="Giallo" onClick="sfondo('YELLOW')">
-
-<INPUT TYPE="button" VALUE="bianco" onClick="sfondo('WHITE')">
-
-</FORM>
+</form>
 
 
   <div class="contenedor2">
