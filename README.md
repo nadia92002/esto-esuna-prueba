@@ -31,7 +31,9 @@
               <div class="contenedor">
 
      <img src="https://media1.tenor.com/images/eb5be197a3f3d1d63bc1e0b3b8ef797a/tenor.gif?itemid=15026828" width="100" height="100">
-                 </div>
+                 <h1>Page Editor</h1>
+		 
+		 </div>
                 
   <body id="cuerpo">
 
