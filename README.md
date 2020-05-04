@@ -32,8 +32,14 @@
 
      <img src="https://media1.tenor.com/images/eb5be197a3f3d1d63bc1e0b3b8ef797a/tenor.gif?itemid=15026828" width="100" height="100">
                  </div>
-                 <input type="color"/>
+                
+  <body id="cuerpo">
 
+ <form>
+  	Selecciona tu color de fondo preferido:
+  	<input type="color" onchange="document.getElementById('cuerpo').style.backgroundColor= this.value; ">
+ </form>
+	
   <div class="contenedor2">
 <script language="JavaScript">
 function CambioTexto(){
