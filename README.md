@@ -32,24 +32,7 @@
 
      <img src="https://media1.tenor.com/images/eb5be197a3f3d1d63bc1e0b3b8ef797a/tenor.gif?itemid=15026828" width="100" height="100">
                  </div>
-                 
-<script type="text/javascript" src="js/paper.js"></script> 
- <script type="text/javascript"> 
-  paper.install(window); 
-  window.onload = function() 
-  { 
-   paper.setup('myCanvas'); 
-   var Recpath = new Path.Rectangle([125, 105], [100, 100]); 
-   Recpath.fillColor = "green"; 
-   view.draw(); 
-   view.onFrame = function(event) 
-   { 
-    Recpath.fillColor.hue += 1; 
-   } 
-  } 
- </script>  
- <canvas id="myCanvas" style="width:100%;height:98vh;"></canvas> 
-
+                 <input type="color"/>
 
   <div class="contenedor2">
 <script language="JavaScript">
