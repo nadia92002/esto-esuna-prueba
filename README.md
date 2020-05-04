@@ -33,7 +33,43 @@
      <img src="https://media1.tenor.com/images/eb5be197a3f3d1d63bc1e0b3b8ef797a/tenor.gif?itemid=15026828" width="100" height="100">
                  </div>
                  
-                 <div class="contenedor2">
+<BODY bgcolor="white">
+
+ 
+
+<SCRIPT LANGUAGE="JavaScript">
+
+
+    function sfondo(colore) {document.bgColor = colore;}
+
+
+</script>
+
+
+
+<CENTER><FORM>
+
+
+<INPUT TYPE="button" VALUE="Rosso" onClick="sfondo('RED')">
+
+<INPUT TYPE="button" VALUE="Blue" onClick="sfondo('BLUE')">
+
+<INPUT TYPE="button" VALUE="Arancio" onClick="sfondo('ORANGE')">
+
+<INPUT TYPE="button" VALUE="Verde" onClick="sfondo('GREEN')">
+
+<INPUT TYPE="button" VALUE="Nero" onClick="sfondo('BLACK')">
+
+<INPUT TYPE="button" VALUE="Grigio" onClick="sfondo('GRAY')">
+
+<INPUT TYPE="button" VALUE="Giallo" onClick="sfondo('YELLOW')">
+
+<INPUT TYPE="button" VALUE="bianco" onClick="sfondo('WHITE')">
+
+</FORM>
+
+
+  <div class="contenedor2">
 <script language="JavaScript">
 function CambioTexto(){
 var e=document.getElementsByTagName("p");
