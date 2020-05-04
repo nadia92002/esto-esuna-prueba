@@ -1,33 +1,34 @@
 <html>
 <head>
 <script language="JavaScript">
-function CambioTamanio(){
-var Boton=window.event.srcElement
-var Elementos=document.all.tags("P")
-for (i=0;i<Elementos.length;i++){
-Elementos[i].style.fontSize=Boton.value
+function CambioTexto(){
+var e=document.getElementsByTagName("p");
+var x=document.getElementById("valor");
+for (var i = 0; i < e.length; i++){
+if (x.options[x.selectedIndex].text=="elige"){return false}
+e[i].style.fontSize=x.options[x.selectedIndex].text+"px";
+e[i].style.fontFamily="Arial";
+e[i].style.color="#ff0000";
 }
 }
-<!--function MarcaParrafo(){
-var Parrafo=window.event.srcElement
-Parrafo.style.color="red"
-}>
 </script>
 </head>
 <body>
-<p>
-<!--Tamaño del texto:-->
-Si no lees bien el texto, pulsa aquí:
-<input type="button" VALUE="10" onClick="CambioTamanio()">
-<input type="button" VALUE="15" onClick="CambioTamanio()">
-<input type="button" VALUE="20" onClick="CambioTamanio()">
-<input type="button" VALUE="25" onClick="CambioTamanio()">
-<input type="button" VALUE="30" onClick="CambioTamanio()">
-<input type="button" VALUE="35" onClick="CambioTamanio()">
-<input type="button" VALUE="40" onClick="CambioTamanio()">
-</p>
+Selecciona un tamaño:
+<select id="valor" onchange="CambioTexto()">
+<option>elige</option>
+<option>10</option>
+<option>15</option>
+<option>20</option>
+<option>25</option>
+<option>30</option>
+<option>35</option>
+<option>40</option>
+</select>
 
-<div onDblClick="MarcaParrafo()">
+<p>Si no lees bien el texto . . .</p>
+
+<div>
 <p>TEXTO QUE QUIERAS</p>
 </div>
 </body>
