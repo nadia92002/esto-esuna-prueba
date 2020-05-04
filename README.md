@@ -30,9 +30,7 @@
 
               <div class="contenedor">
 
-               <center><h1><font color="blue">Page editor
-
-                 <img src="https://media1.tenor.com/images/eb5be197a3f3d1d63bc1e0b3b8ef797a/tenor.gif?itemid=15026828" width="100" height="100">
+     <img src="https://media1.tenor.com/images/eb5be197a3f3d1d63bc1e0b3b8ef797a/tenor.gif?itemid=15026828" width="100" height="100">
                  </div>
                  
                  <div class="contenedor2">
@@ -78,6 +76,3 @@ que no sirve para nada, en otras ocasiones puede ser más efectivo corregir
 directamente el código por lo que resulta necesario saber HTML para poder depurar el
 código de nuestra páginas.</p>
 </div>
-</div>
-</body>
-</html>
